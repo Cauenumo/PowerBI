@@ -1,2 +1,2 @@
 # PowerBI
-Arquivos de Power BI para estudos.
+Repositório de Power BI para estudos.
