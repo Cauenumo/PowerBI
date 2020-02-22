@@ -1,0 +1,1000 @@
+Vendedor;Treinamento;Data;Cliente;Valor;Alunos;Instrutor;Conteúdo;Período;Total;Estado ;Avaliação Instrutor
+Rodrigo;Access;01/06/2015;Pessoa Física;880;9;Caio ;Regular;Manhã;7.920,00;São Paulo;3
+Priscila;Windows;01/06/2016;Pessoa Jurídica;750;12;Fernando;Regular;Tarde;9.000,00;São Paulo;4
+Mirian;Excel Básico;01/06/2016;Pessoa Jurídica;800;8;Roberto;Personalizado;Noite;6.400,00;São Paulo;3
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;1000;10;Rosana;Regular;Integral;10.000,00;São Paulo;3
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;1200;12;Sandra;Regular;Madrugada;14.400,00;São Paulo;4
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;1480;10;Sérgio;Regular;Sábado;14.800,00;São Paulo;3
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;1400;12;Manuel;Personalizado;Domingo;16.800,00;São Paulo;2
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Física;1890;11;Joaquim;Regular;Personalizado;20.790,00;São Paulo;3
+Renata;Access VBA;02/06/2016;Pessoa Física;1200;9;Paulo;Regular;Manhã;10.800,00;São Paulo;2
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;1200;9;Leandro;Regular;Tarde;10.800,00;São Paulo;2
+Priscila;Outlook;04/06/2016;Pessoa Jurídica;800;11;José;Personalizado;Noite;8.800,00;São Paulo;5
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;110;12;Caio ;Regular;Integral;1.320,00;São Paulo;4
+Murilo;PowerPoint;04/06/2016;Pessoa Física;900;9;Caio ;Regular;Madrugada;8.100,00;São Paulo;4
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1180;8;Fernando;Regular;Segunda-feira;9.440,00;São Paulo;3
+Myslaine;Access;06/06/2016;Pessoa Física;880;12;Fernando;Personalizado;Terça-feira;10.560,00;São Paulo;5
+Katia;Windows;06/06/2016;Pessoa Física;750;12;Ana;Regular;Personalizado;9.000,00;São Paulo;3
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;800;11;Paulo;Regular;Manhã;8.800,00;São Paulo;3
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;1000;12;Sandra;Regular;Tarde;12.000,00;São Paulo;5
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Jurídica;1200;12;Sandra;Personalizado;Noite;14.400,00;São Paulo;2
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;1480;8;Humberto;Regular;Integral;11.840,00;São Paulo;5
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;1400;11;Henrique;Regular;Madrugada;15.400,00;São Paulo;3
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1890;12;Douglas;Regular;Quarta-feira;22.680,00;São Paulo;2
+Roberto;Access VBA;10/06/2016;Pessoa Física;1200;8;Jane;Personalizado;Quinta-feira;9.600,00;São Paulo;2
+Myslaine;Word VBA;10/06/2016;Pessoa Física;1200;12;Caio ;Regular;Personalizado;14.400,00;São Paulo;3
+Katia;Outlook;10/06/2016;Pessoa Física;800;10;Fernando;Regular;Manhã;8.000,00;São Paulo;4
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;110;11;Roberto;Regular;Tarde;1.210,00;São Paulo;2
+Renata;PowerPoint;12/06/2016;Pessoa Jurídica;900;11;Rosana;Personalizado;Noite;9.900,00;São Paulo;2
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1180;9;Sandra;Regular;Integral;10.620,00;São Paulo;5
+Priscila;Access;12/06/2016;Pessoa Física;3200;8;Sérgio;Regular;Madrugada;25.600,00;São Paulo;3
+Mirian;Windows;12/06/2016;Pessoa Jurídica;3921;10;Manuel;Regular;Sexta-feira;39.210,00;São Paulo;4
+Murilo;Excel Básico;14/06/2016;Pessoa Física;780;12;Joaquim;Personalizado;Sábado;9.360,00;São Paulo;3
+Roberto;Excel Intermediário;14/06/2016;Pessoa Física;980;8;Paulo;Regular;Personalizado;7.840,00;São Paulo;2
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;1020;12;Leandro;Regular;Manhã;12.240,00;São Paulo;5
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;1340;9;José;Regular;Tarde;12.060,00;São Paulo;5
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;1870;10;Caio ;Personalizado;Noite;18.700,00;São Paulo;3
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1910;9;Caio ;Regular;Integral;17.190,00;São Paulo;4
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;2240;9;Fernando;Regular;Madrugada;20.160,00;São Paulo;4
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;2479;9;Fernando;Regular;Domingo;22.311,00;São Paulo;3
+Mirian;Outlook;18/06/2016;Pessoa Física;3200;11;Ana;Personalizado;Segunda-feira;35.200,00;São Paulo;3
+Murilo;Outlook VBA;18/06/2016;Pessoa Física;3921;12;Paulo;Regular;Personalizado;47.052,00;São Paulo;4
+Roberto;PowerPoint;18/06/2016;Pessoa Física;780;10;Sandra;Regular;Manhã;7.800,00;São Paulo;3
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;980;12;Sandra;Regular;Tarde;11.760,00;São Paulo;3
+Katia;Access;01/06/2016;Pessoa Jurídica;1020;12;Humberto;Personalizado;Noite;12.240,00;São Paulo;2
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;1340;10;Henrique;Regular;Integral;13.400,00;São Paulo;4
+Renata;Excel Básico;01/06/2016;Pessoa Física;1870;9;Douglas;Regular;Madrugada;16.830,00;São Paulo;4
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;1910;12;Jane;Regular;Terça-feira;22.920,00;São Paulo;4
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;2240;12;Caio ;Personalizado;Quarta-feira;26.880,00;São Paulo;3
+Mirian;Excel Dashboards;01/06/2016;Pessoa Física;2479;9;Fernando;Regular;Personalizado;22.311,00;São Paulo;3
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;3200;9;Roberto;Regular;Manhã;28.800,00;São Paulo;3
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;3921;10;Rosana;Regular;Tarde;39.210,00;São Paulo;3
+Myslaine;Access VBA;02/06/2016;Pessoa Jurídica;780;8;Sandra;Personalizado;Noite;6.240,00;São Paulo;5
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;980;10;Sérgio;Regular;Integral;9.800,00;São Paulo;4
+Vanessa;Outlook;04/06/2016;Pessoa Física;1020;8;Manuel;Regular;Madrugada;8.160,00;São Paulo;3
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;1340;10;Joaquim;Regular;Quinta-feira;13.400,00;São Paulo;3
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;1870;10;Paulo;Personalizado;Sexta-feira;18.700,00;São Paulo;5
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Física;1910;8;Leandro;Regular;Personalizado;15.280,00;São Paulo;3
+Mirian;Access;06/06/2016;Pessoa Física;2240;12;José;Regular;Manhã;26.880,00;São Paulo;5
+Murilo;Windows;06/06/2016;Pessoa Jurídica;2479;8;Caio ;Regular;Tarde;19.832,00;São Paulo;4
+Roberto;Excel Básico;06/06/2016;Pessoa Jurídica;3200;11;Caio ;Personalizado;Noite;35.200,00;São Paulo;3
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;3921;12;Fernando;Regular;Integral;47.052,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Física;780;10;Fernando;Regular;Madrugada;7.800,00;São Paulo;2
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;980;10;Ana;Regular;Sábado;9.800,00;São Paulo;2
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;1020;10;Paulo;Personalizado;Domingo;10.200,00;São Paulo;3
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Física;1340;10;Sandra;Regular;Personalizado;13.400,00;São Paulo;3
+Priscila;Access VBA;10/06/2016;Pessoa Física;1870;8;Sandra;Regular;Manhã;14.960,00;São Paulo;5
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;1910;8;Humberto;Regular;Tarde;15.280,00;São Paulo;4
+Murilo;Outlook;10/06/2016;Pessoa Jurídica;2240;10;Henrique;Personalizado;Noite;22.400,00;São Paulo;5
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;2479;9;Douglas;Regular;Integral;22.311,00;São Paulo;5
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;3200;11;Jane;Regular;Madrugada;35.200,00;São Paulo;4
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;3921;11;Caio ;Regular;Segunda-feira;43.131,00;São Paulo;5
+Vanessa;Access;12/06/2016;Pessoa Física;780;10;Fernando;Personalizado;Terça-feira;7.800,00;São Paulo;4
+Renata;Windows;12/06/2016;Pessoa Física;980;12;Roberto;Regular;Personalizado;11.760,00;São Paulo;5
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;1020;11;Rosana;Regular;Manhã;11.220,00;São Paulo;4
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;1340;9;Sandra;Regular;Tarde;12.060,00;São Paulo;3
+Mirian;Excel Avançado;14/06/2016;Pessoa Jurídica;1870;11;Sérgio;Personalizado;Noite;20.570,00;São Paulo;5
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;1910;8;Manuel;Regular;Integral;15.280,00;São Paulo;2
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;2240;11;Joaquim;Regular;Madrugada;24.640,00;São Paulo;3
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;2479;12;Paulo;Regular;Quarta-feira;29.748,00;São Paulo;2
+Katia;Access VBA;16/06/2016;Pessoa Física;3200;11;Leandro;Personalizado;Quinta-feira;35.200,00;São Paulo;5
+Vanessa;Word VBA;16/06/2016;Pessoa Física;3921;12;José;Regular;Personalizado;47.052,00;São Paulo;2
+Renata;Outlook;18/06/2016;Pessoa Física;780;12;Caio ;Regular;Manhã;9.360,00;São Paulo;3
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;980;8;Caio ;Regular;Tarde;7.840,00;São Paulo;3
+Priscila;PowerPoint;18/06/2016;Pessoa Jurídica;1020;10;Fernando;Personalizado;Noite;10.200,00;São Paulo;4
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1340;8;Fernando;Regular;Integral;10.720,00;São Paulo;2
+Murilo;Access;01/06/2016;Pessoa Física;1870;8;Ana;Regular;Madrugada;14.960,00;São Paulo;3
+Roberto;Windows;01/06/2016;Pessoa Jurídica;1910;11;Paulo;Regular;Sexta-feira;21.010,00;São Paulo;2
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;2240;10;Sandra;Personalizado;Sábado;22.400,00;São Paulo;2
+Katia;Excel Intermediário;01/06/2016;Pessoa Física;2479;8;Sandra;Regular;Personalizado;19.832,00;São Paulo;5
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;3200;10;Humberto;Regular;Manhã;32.000,00;São Paulo;5
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;3921;9;Henrique;Regular;Tarde;35.289,00;São Paulo;4
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;780;8;Douglas;Personalizado;Noite;6.240,00;São Paulo;2
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;980;10;Jane;Regular;Integral;9.800,00;São Paulo;5
+Mirian;Access VBA;02/06/2016;Pessoa Física;1020;9;Caio ;Regular;Madrugada;9.180,00;São Paulo;4
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;1340;12;Fernando;Regular;Domingo;16.080,00;São Paulo;5
+Roberto;Outlook;04/06/2016;Pessoa Física;1870;9;Roberto;Personalizado;Segunda-feira;16.830,00;São Paulo;4
+Myslaine;Outlook VBA;04/06/2016;Pessoa Física;1910;11;Rosana;Regular;Personalizado;21.010,00;São Paulo;5
+Katia;PowerPoint;04/06/2016;Pessoa Física;2240;10;Sandra;Regular;Manhã;22.400,00;São Paulo;4
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;2479;11;Sérgio;Regular;Tarde;27.269,00;São Paulo;2
+Renata;Access;06/06/2016;Pessoa Jurídica;3200;11;Manuel;Personalizado;Noite;35.200,00;São Paulo;3
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;3921;9;Joaquim;Regular;Integral;35.289,00;São Paulo;3
+Priscila;Excel Básico;06/06/2016;Pessoa Física;780;11;Paulo;Regular;Madrugada;8.580,00;São Paulo;3
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;980;8;Leandro;Regular;Terça-feira;7.840,00;São Paulo;5
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;1020;9;José;Personalizado;Quarta-feira;9.180,00;São Paulo;5
+Roberto;Excel Dashboards;08/06/2016;Pessoa Física;1340;8;Caio ;Regular;Personalizado;10.720,00;São Paulo;5
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;1870;10;Caio ;Regular;Manhã;18.700,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1910;10;Fernando;Regular;Tarde;19.100,00;São Paulo;5
+Vanessa;Access VBA;10/06/2016;Pessoa Jurídica;2240;9;Fernando;Personalizado;Noite;20.160,00;São Paulo;2
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;2479;11;Ana;Regular;Integral;27.269,00;São Paulo;3
+Rodrigo;Outlook;10/06/2016;Pessoa Física;3200;12;Paulo;Regular;Madrugada;38.400,00;São Paulo;5
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;3921;9;Sandra;Regular;Quinta-feira;35.289,00;São Paulo;4
+Mirian;PowerPoint;12/06/2016;Pessoa Física;780;10;Sandra;Personalizado;Sexta-feira;7.800,00;São Paulo;4
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Física;980;10;Humberto;Regular;Personalizado;9.800,00;São Paulo;5
+Roberto;Access;12/06/2016;Pessoa Física;1020;9;Henrique;Regular;Manhã;9.180,00;São Paulo;3
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;1340;9;Douglas;Regular;Tarde;12.060,00;São Paulo;2
+Katia;Excel Básico;14/06/2016;Pessoa Jurídica;1870;11;Jane;Personalizado;Noite;20.570,00;São Paulo;2
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;1910;10;Caio ;Regular;Integral;19.100,00;São Paulo;4
+Renata;Excel Avançado;14/06/2016;Pessoa Física;2240;11;Fernando;Regular;Madrugada;24.640,00;São Paulo;2
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;2479;10;Roberto;Regular;Sábado;24.790,00;São Paulo;2
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Física;3200;9;Rosana;Personalizado;Domingo;28.800,00;São Paulo;3
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Física;3921;9;Sandra;Regular;Personalizado;35.289,00;São Paulo;3
+Murilo;Access VBA;16/06/2016;Pessoa Física;780;10;Sérgio;Regular;Manhã;7.800,00;São Paulo;5
+Roberto;Word VBA;16/06/2016;Pessoa Jurídica;980;12;Manuel;Regular;Tarde;11.760,00;São Paulo;4
+Myslaine;Outlook;18/06/2016;Pessoa Jurídica;1020;11;Joaquim;Personalizado;Noite;11.220,00;São Paulo;2
+Katia;Outlook VBA;18/06/2016;Pessoa Jurídica;1340;11;Paulo;Regular;Integral;14.740,00;São Paulo;4
+Vanessa;PowerPoint;18/06/2016;Pessoa Física;1870;11;Leandro;Regular;Madrugada;20.570,00;São Paulo;4
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1910;11;José;Regular;Segunda-feira;21.010,00;São Paulo;2
+Rodrigo;Access;01/06/2016;Pessoa Física;2240;10;Caio ;Personalizado;Terça-feira;22.400,00;São Paulo;5
+Priscila;Windows;01/06/2016;Pessoa Física;2479;9;Caio ;Regular;Personalizado;22.311,00;São Paulo;3
+Mirian;Excel Básico;01/06/2016;Pessoa Física;3200;8;Fernando;Regular;Manhã;25.600,00;São Paulo;2
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;3921;8;Fernando;Regular;Tarde;31.368,00;São Paulo;2
+Roberto;Excel Avançado;01/06/2016;Pessoa Jurídica;780;9;Ana;Personalizado;Noite;7.020,00;São Paulo;3
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;980;10;Paulo;Regular;Integral;9.800,00;São Paulo;5
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;1020;9;Sandra;Regular;Madrugada;9.180,00;São Paulo;5
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1340;12;Sandra;Regular;Quarta-feira;16.080,00;São Paulo;4
+Renata;Access VBA;02/06/2016;Pessoa Física;1870;10;Humberto;Personalizado;Quinta-feira;18.700,00;São Paulo;5
+Rodrigo;Word VBA;02/06/2016;Pessoa Física;1910;10;Henrique;Regular;Personalizado;19.100,00;São Paulo;2
+Priscila;Outlook;04/06/2016;Pessoa Física;2240;12;Douglas;Regular;Manhã;26.880,00;São Paulo;5
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;2479;10;Jane;Regular;Tarde;24.790,00;São Paulo;4
+Murilo;PowerPoint;04/06/2016;Pessoa Jurídica;3200;10;Caio ;Personalizado;Noite;32.000,00;São Paulo;2
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;3921;8;Fernando;Regular;Integral;31.368,00;São Paulo;5
+Myslaine;Access;06/06/2016;Pessoa Física;780;10;Roberto;Regular;Madrugada;7.800,00;São Paulo;2
+Katia;Windows;06/06/2016;Pessoa Jurídica;980;11;Rosana;Regular;Sexta-feira;10.780,00;São Paulo;5
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;1020;12;Sandra;Personalizado;Sábado;12.240,00;São Paulo;5
+Renata;Excel Intermediário;06/06/2016;Pessoa Física;1340;9;Sérgio;Regular;Personalizado;12.060,00;São Paulo;3
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;1870;12;Manuel;Regular;Manhã;22.440,00;São Paulo;4
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;1910;10;Joaquim;Regular;Tarde;19.100,00;São Paulo;5
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;2240;12;Paulo;Personalizado;Noite;26.880,00;São Paulo;5
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;2479;12;Leandro;Regular;Integral;29.748,00;São Paulo;2
+Roberto;Access VBA;10/06/2016;Pessoa Física;3200;12;José;Regular;Madrugada;38.400,00;São Paulo;4
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;3921;12;Caio ;Regular;Domingo;47.052,00;São Paulo;2
+Katia;Outlook;10/06/2016;Pessoa Física;780;8;Caio ;Personalizado;Segunda-feira;6.240,00;São Paulo;3
+Vanessa;Outlook VBA;10/06/2016;Pessoa Física;980;8;Fernando;Regular;Personalizado;7.840,00;São Paulo;4
+Renata;PowerPoint;12/06/2016;Pessoa Física;1020;10;Fernando;Regular;Manhã;10.200,00;São Paulo;4
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1340;10;Ana;Regular;Tarde;13.400,00;São Paulo;3
+Priscila;Access;12/06/2016;Pessoa Jurídica;1870;10;Paulo;Personalizado;Noite;18.700,00;São Paulo;4
+Mirian;Windows;12/06/2016;Pessoa Jurídica;1910;10;Sandra;Regular;Integral;19.100,00;São Paulo;3
+Murilo;Excel Básico;14/06/2016;Pessoa Física;2240;9;Sandra;Regular;Madrugada;20.160,00;São Paulo;2
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;2479;9;Humberto;Regular;Terça-feira;22.311,00;São Paulo;4
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;3200;11;Henrique;Personalizado;Quarta-feira;35.200,00;São Paulo;3
+Katia;Excel Dashboards;14/06/2016;Pessoa Física;3921;8;Douglas;Regular;Personalizado;31.368,00;São Paulo;5
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;780;9;Jane;Regular;Manhã;7.020,00;São Paulo;3
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;980;12;Caio ;Regular;Tarde;11.760,00;São Paulo;3
+Rodrigo;Access VBA;16/06/2016;Pessoa Jurídica;1020;12;Fernando;Personalizado;Noite;12.240,00;São Paulo;4
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;1340;8;Roberto;Regular;Integral;10.720,00;São Paulo;4
+Mirian;Outlook;18/06/2016;Pessoa Física;1870;10;Rosana;Regular;Madrugada;18.700,00;São Paulo;5
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;1910;9;Sandra;Regular;Quinta-feira;17.190,00;São Paulo;4
+Roberto;PowerPoint;18/06/2016;Pessoa Física;2240;8;Sérgio;Personalizado;Sexta-feira;17.920,00;São Paulo;2
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Física;2479;10;Manuel;Regular;Personalizado;24.790,00;São Paulo;5
+Katia;Access;01/06/2016;Pessoa Física;3200;8;Joaquim;Regular;Manhã;25.600,00;São Paulo;4
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;3921;11;Paulo;Regular;Tarde;43.131,00;São Paulo;2
+Renata;Excel Básico;01/06/2016;Pessoa Jurídica;780;9;Leandro;Personalizado;Noite;7.020,00;São Paulo;5
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;980;8;José;Regular;Integral;7.840,00;São Paulo;4
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;1020;9;Caio ;Regular;Madrugada;9.180,00;São Paulo;4
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;1340;8;Caio ;Regular;Sábado;10.720,00;São Paulo;3
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;1870;11;Fernando;Personalizado;Domingo;20.570,00;São Paulo;2
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Física;1910;11;Fernando;Regular;Personalizado;21.010,00;São Paulo;5
+Myslaine;Access VBA;02/06/2016;Pessoa Física;2240;8;Ana;Regular;Manhã;17.920,00;São Paulo;3
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;2479;12;Paulo;Regular;Tarde;29.748,00;São Paulo;4
+Vanessa;Outlook;04/06/2016;Pessoa Jurídica;3200;8;Sandra;Personalizado;Noite;25.600,00;São Paulo;3
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;3921;11;Sandra;Regular;Integral;43.131,00;São Paulo;3
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;780;9;Humberto;Regular;Madrugada;7.020,00;São Paulo;5
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;980;9;Henrique;Regular;Segunda-feira;8.820,00;São Paulo;5
+Mirian;Access;06/06/2016;Pessoa Física;1020;9;Douglas;Personalizado;Terça-feira;9.180,00;São Paulo;3
+Murilo;Windows;06/06/2016;Pessoa Física;1340;10;Jane;Regular;Personalizado;13.400,00;São Paulo;5
+Roberto;Excel Básico;06/06/2016;Pessoa Física;1870;11;Caio ;Regular;Manhã;20.570,00;São Paulo;2
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;1910;9;Fernando;Regular;Tarde;17.190,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Jurídica;2240;8;Roberto;Personalizado;Noite;17.920,00;São Paulo;2
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;2479;10;Rosana;Regular;Integral;24.790,00;São Paulo;2
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;3200;10;Sandra;Regular;Madrugada;32.000,00;São Paulo;2
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;3921;10;Sérgio;Regular;Quarta-feira;39.210,00;São Paulo;3
+Priscila;Access VBA;10/06/2016;Pessoa Física;780;9;Manuel;Personalizado;Quinta-feira;7.020,00;São Paulo;3
+Mirian;Word VBA;10/06/2016;Pessoa Física;980;10;Joaquim;Regular;Personalizado;9.800,00;São Paulo;3
+Murilo;Outlook;10/06/2016;Pessoa Física;1020;9;Paulo;Regular;Manhã;9.180,00;São Paulo;5
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;1340;11;Leandro;Regular;Tarde;14.740,00;São Paulo;2
+Myslaine;PowerPoint;12/06/2016;Pessoa Jurídica;1870;8;José;Personalizado;Noite;14.960,00;São Paulo;5
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1910;10;Caio ;Regular;Integral;19.100,00;São Paulo;2
+Vanessa;Access;12/06/2016;Pessoa Física;2240;9;Caio ;Regular;Madrugada;20.160,00;São Paulo;5
+Renata;Windows;12/06/2016;Pessoa Jurídica;2479;10;Fernando;Regular;Sexta-feira;24.790,00;São Paulo;4
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;3200;12;Fernando;Personalizado;Sábado;38.400,00;São Paulo;4
+Priscila;Excel Intermediário;14/06/2016;Pessoa Física;3921;9;Ana;Regular;Personalizado;35.289,00;São Paulo;4
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;780;12;Paulo;Regular;Manhã;9.360,00;São Paulo;5
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;980;10;Sandra;Regular;Tarde;9.800,00;São Paulo;4
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;1020;12;Sandra;Personalizado;Noite;12.240,00;São Paulo;2
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1340;10;Humberto;Regular;Integral;13.400,00;São Paulo;5
+Katia;Access VBA;16/06/2016;Pessoa Física;1870;10;Henrique;Regular;Madrugada;18.700,00;São Paulo;4
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;1910;12;Douglas;Regular;Domingo;22.920,00;São Paulo;3
+Renata;Outlook;18/06/2016;Pessoa Física;2240;12;Jane;Personalizado;Segunda-feira;26.880,00;São Paulo;3
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Física;2479;11;Caio ;Regular;Personalizado;27.269,00;São Paulo;3
+Priscila;PowerPoint;18/06/2016;Pessoa Física;3200;8;Fernando;Regular;Manhã;25.600,00;São Paulo;5
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;3921;9;Roberto;Regular;Tarde;35.289,00;São Paulo;4
+Murilo;Access;01/06/2016;Pessoa Jurídica;780;8;Rosana;Personalizado;Noite;6.240,00;São Paulo;4
+Roberto;Windows;01/06/2016;Pessoa Jurídica;980;10;Sandra;Regular;Integral;9.800,00;São Paulo;3
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;1020;12;Sérgio;Regular;Madrugada;12.240,00;São Paulo;3
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;1340;11;Manuel;Regular;Terça-feira;14.740,00;São Paulo;4
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;1870;8;Joaquim;Personalizado;Quarta-feira;14.960,00;São Paulo;3
+Renata;Excel Dashboards;01/06/2016;Pessoa Física;1910;9;Paulo;Regular;Personalizado;17.190,00;São Paulo;2
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;2240;9;Leandro;Regular;Manhã;20.160,00;São Paulo;2
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;2479;12;José;Regular;Tarde;29.748,00;São Paulo;2
+Mirian;Access VBA;02/06/2016;Pessoa Jurídica;3200;8;Caio ;Personalizado;Noite;25.600,00;São Paulo;3
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;3921;10;Caio ;Regular;Integral;39.210,00;São Paulo;3
+Roberto;Outlook;04/06/2016;Pessoa Física;780;12;Fernando;Regular;Madrugada;9.360,00;São Paulo;2
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;980;9;Fernando;Regular;Quinta-feira;8.820,00;São Paulo;5
+Katia;PowerPoint;04/06/2016;Pessoa Física;1020;8;Ana;Personalizado;Sexta-feira;8.160,00;São Paulo;2
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Física;1340;11;Paulo;Regular;Personalizado;14.740,00;São Paulo;3
+Renata;Access;06/06/2016;Pessoa Física;1870;11;Sandra;Regular;Manhã;20.570,00;São Paulo;4
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;1910;9;Sandra;Regular;Tarde;17.190,00;São Paulo;5
+Priscila;Excel Básico;06/06/2016;Pessoa Jurídica;2240;9;Humberto;Personalizado;Noite;20.160,00;São Paulo;4
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;2479;8;Henrique;Regular;Integral;19.832,00;São Paulo;3
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;3200;12;Douglas;Regular;Madrugada;38.400,00;São Paulo;4
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;3921;10;Jane;Regular;Sábado;39.210,00;São Paulo;3
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;780;10;Caio ;Personalizado;Domingo;7.800,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Física;980;9;Fernando;Regular;Personalizado;8.820,00;São Paulo;5
+Vanessa;Access VBA;10/06/2016;Pessoa Física;1020;11;Roberto;Regular;Manhã;11.220,00;São Paulo;2
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;1340;9;Rosana;Regular;Tarde;12.060,00;São Paulo;2
+Rodrigo;Outlook;10/06/2016;Pessoa Jurídica;1870;11;Sandra;Personalizado;Noite;20.570,00;São Paulo;3
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;1910;10;Sérgio;Regular;Integral;19.100,00;São Paulo;3
+Mirian;PowerPoint;12/06/2016;Pessoa Física;2240;8;Manuel;Regular;Madrugada;17.920,00;São Paulo;2
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;2479;10;Joaquim;Regular;Segunda-feira;24.790,00;São Paulo;5
+Roberto;Access;12/06/2016;Pessoa Física;3200;11;Paulo;Personalizado;Terça-feira;35.200,00;São Paulo;3
+Myslaine;Windows;12/06/2016;Pessoa Física;3921;10;Leandro;Regular;Personalizado;39.210,00;São Paulo;3
+Katia;Excel Básico;14/06/2016;Pessoa Física;780;11;José;Regular;Manhã;8.580,00;São Paulo;2
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;980;12;Caio ;Regular;Tarde;11.760,00;São Paulo;5
+Renata;Excel Avançado;14/06/2016;Pessoa Jurídica;1020;8;Caio ;Personalizado;Noite;8.160,00;São Paulo;5
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;1340;10;Fernando;Regular;Integral;13.400,00;São Paulo;4
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Física;1870;11;Fernando;Regular;Madrugada;20.570,00;São Paulo;2
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1910;9;Ana;Regular;Quarta-feira;17.190,00;São Paulo;5
+Murilo;Access VBA;16/06/2016;Pessoa Física;2240;8;Paulo;Personalizado;Quinta-feira;17.920,00;São Paulo;5
+Roberto;Word VBA;16/06/2016;Pessoa Física;2479;12;Sandra;Regular;Personalizado;29.748,00;São Paulo;5
+Myslaine;Outlook;18/06/2016;Pessoa Física;3200;11;Sandra;Regular;Manhã;35.200,00;São Paulo;4
+Katia;Outlook VBA;18/06/2016;Pessoa Jurídica;3921;9;Humberto;Regular;Tarde;35.289,00;São Paulo;4
+Vanessa;PowerPoint;18/06/2016;Pessoa Jurídica;780;10;Henrique;Personalizado;Noite;7.800,00;São Paulo;3
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;980;10;Douglas;Regular;Integral;9.800,00;São Paulo;5
+Rodrigo;Access;01/06/2016;Pessoa Física;1020;12;Jane;Regular;Madrugada;12.240,00;São Paulo;2
+Priscila;Windows;01/06/2016;Pessoa Jurídica;1340;8;Caio ;Regular;Sexta-feira;10.720,00;São Paulo;2
+Mirian;Excel Básico;01/06/2016;Pessoa Física;1870;11;Fernando;Personalizado;Sábado;20.570,00;São Paulo;5
+Murilo;Excel Intermediário;01/06/2016;Pessoa Física;1910;10;Roberto;Regular;Personalizado;19.100,00;São Paulo;2
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;2240;11;Rosana;Regular;Manhã;24.640,00;São Paulo;4
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;2479;10;Sandra;Regular;Tarde;24.790,00;São Paulo;2
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;3200;12;Sérgio;Personalizado;Noite;38.400,00;São Paulo;4
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;3921;9;Manuel;Regular;Integral;35.289,00;São Paulo;5
+Renata;Access VBA;02/06/2016;Pessoa Física;780;10;Joaquim;Regular;Madrugada;7.800,00;São Paulo;2
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;980;10;Paulo;Regular;Domingo;9.800,00;São Paulo;4
+Priscila;Outlook;04/06/2016;Pessoa Física;1020;9;Leandro;Personalizado;Segunda-feira;9.180,00;São Paulo;4
+Mirian;Outlook VBA;04/06/2016;Pessoa Física;1340;12;José;Regular;Personalizado;16.080,00;São Paulo;4
+Murilo;PowerPoint;04/06/2016;Pessoa Física;1870;9;Caio ;Regular;Manhã;16.830,00;São Paulo;5
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1910;10;Caio ;Regular;Tarde;19.100,00;São Paulo;2
+Myslaine;Access;06/06/2016;Pessoa Jurídica;2240;8;Fernando;Personalizado;Noite;17.920,00;São Paulo;4
+Katia;Windows;06/06/2016;Pessoa Jurídica;2479;12;Fernando;Regular;Integral;29.748,00;São Paulo;2
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;3200;10;Ana;Regular;Madrugada;32.000,00;São Paulo;3
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;3921;9;Paulo;Regular;Terça-feira;35.289,00;São Paulo;2
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;780;11;Sandra;Personalizado;Quarta-feira;8.580,00;São Paulo;2
+Priscila;Excel Dashboards;08/06/2016;Pessoa Física;980;10;Sandra;Regular;Personalizado;9.800,00;São Paulo;2
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;1020;11;Humberto;Regular;Manhã;11.220,00;São Paulo;3
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1340;8;Henrique;Regular;Tarde;10.720,00;São Paulo;5
+Roberto;Access VBA;10/06/2016;Pessoa Jurídica;1870;10;Douglas;Personalizado;Noite;18.700,00;São Paulo;3
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;1910;12;Jane;Regular;Integral;22.920,00;São Paulo;5
+Katia;Outlook;10/06/2016;Pessoa Física;2240;11;Caio ;Regular;Madrugada;24.640,00;São Paulo;5
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;2479;12;Fernando;Regular;Quinta-feira;29.748,00;São Paulo;5
+Renata;PowerPoint;12/06/2016;Pessoa Física;3200;12;Roberto;Personalizado;Sexta-feira;38.400,00;São Paulo;5
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Física;3921;10;Rosana;Regular;Personalizado;39.210,00;São Paulo;2
+Priscila;Access;12/06/2016;Pessoa Física;780;8;Sandra;Regular;Manhã;6.240,00;São Paulo;2
+Mirian;Windows;12/06/2016;Pessoa Jurídica;980;9;Sérgio;Regular;Tarde;8.820,00;São Paulo;2
+Murilo;Excel Básico;14/06/2016;Pessoa Jurídica;1020;12;Manuel;Personalizado;Noite;12.240,00;São Paulo;2
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;1340;11;Joaquim;Regular;Integral;14.740,00;São Paulo;5
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;1870;11;Paulo;Regular;Madrugada;20.570,00;São Paulo;2
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;1910;10;Leandro;Regular;Sábado;19.100,00;São Paulo;2
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;2240;8;José;Personalizado;Domingo;17.920,00;São Paulo;2
+Renata;Excel VBA avançado;16/06/2016;Pessoa Física;2479;8;Caio ;Regular;Personalizado;19.832,00;São Paulo;3
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;3200;11;Caio ;Regular;Manhã;35.200,00;São Paulo;5
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;3921;11;Fernando;Regular;Tarde;43.131,00;São Paulo;4
+Mirian;Outlook;18/06/2016;Pessoa Jurídica;780;10;Fernando;Personalizado;Noite;7.800,00;São Paulo;3
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;980;11;Ana;Regular;Integral;10.780,00;São Paulo;5
+Roberto;PowerPoint;18/06/2016;Pessoa Física;1020;11;Paulo;Regular;Madrugada;11.220,00;São Paulo;5
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1340;9;Sandra;Regular;Segunda-feira;12.060,00;São Paulo;3
+Katia;Access;01/06/2016;Pessoa Física;1870;10;Sandra;Personalizado;Terça-feira;18.700,00;São Paulo;4
+Vanessa;Windows;01/06/2016;Pessoa Física;1910;8;Humberto;Regular;Personalizado;15.280,00;São Paulo;5
+Renata;Excel Básico;01/06/2016;Pessoa Física;2240;10;Henrique;Regular;Manhã;22.400,00;São Paulo;5
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;2479;12;Douglas;Regular;Tarde;29.748,00;São Paulo;2
+Priscila;Excel Avançado;01/06/2016;Pessoa Jurídica;3200;9;Jane;Personalizado;Noite;28.800,00;São Paulo;5
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;3921;11;Caio ;Regular;Integral;43.131,00;São Paulo;3
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;780;10;Fernando;Regular;Madrugada;7.800,00;São Paulo;4
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;980;8;Roberto;Regular;Quarta-feira;7.840,00;São Paulo;3
+Myslaine;Access VBA;02/06/2016;Pessoa Física;1020;8;Rosana;Personalizado;Quinta-feira;8.160,00;São Paulo;2
+Katia;Word VBA;02/06/2016;Pessoa Física;1340;12;Sandra;Regular;Personalizado;16.080,00;São Paulo;2
+Vanessa;Outlook;04/06/2016;Pessoa Física;1870;10;Sérgio;Regular;Manhã;18.700,00;São Paulo;5
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;1910;9;Manuel;Regular;Tarde;17.190,00;São Paulo;5
+Rodrigo;PowerPoint;04/06/2016;Pessoa Jurídica;2240;9;Joaquim;Personalizado;Noite;20.160,00;São Paulo;2
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;2479;8;Paulo;Regular;Integral;19.832,00;São Paulo;4
+Mirian;Access;06/06/2016;Pessoa Física;3200;10;Leandro;Regular;Madrugada;32.000,00;São Paulo;5
+Murilo;Windows;06/06/2016;Pessoa Jurídica;3921;9;José;Regular;Sexta-feira;35.289,00;São Paulo;2
+Roberto;Excel Básico;06/06/2016;Pessoa Física;780;11;Caio ;Personalizado;Sábado;8.580,00;São Paulo;5
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Física;980;9;Caio ;Regular;Personalizado;8.820,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Física;1020;10;Fernando;Regular;Manhã;10.200,00;São Paulo;3
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;1340;11;Fernando;Regular;Tarde;14.740,00;São Paulo;4
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;1870;8;Ana;Personalizado;Noite;14.960,00;São Paulo;4
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1910;10;Paulo;Regular;Integral;19.100,00;São Paulo;2
+Priscila;Access VBA;10/06/2016;Pessoa Física;2240;11;Sandra;Regular;Madrugada;24.640,00;São Paulo;4
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;2479;11;Sandra;Regular;Domingo;27.269,00;São Paulo;3
+Murilo;Outlook;10/06/2016;Pessoa Física;3200;12;Humberto;Personalizado;Segunda-feira;38.400,00;São Paulo;4
+Roberto;Outlook VBA;10/06/2016;Pessoa Física;3921;8;Henrique;Regular;Personalizado;31.368,00;São Paulo;4
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;780;8;Douglas;Regular;Manhã;6.240,00;São Paulo;3
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;980;8;Jane;Regular;Tarde;7.840,00;São Paulo;2
+Vanessa;Access;12/06/2016;Pessoa Jurídica;1020;10;Caio ;Personalizado;Noite;10.200,00;São Paulo;3
+Renata;Windows;12/06/2016;Pessoa Jurídica;1340;10;Fernando;Regular;Integral;13.400,00;São Paulo;5
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;1870;9;Roberto;Regular;Madrugada;16.830,00;São Paulo;4
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;1910;11;Rosana;Regular;Terça-feira;21.010,00;São Paulo;4
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;2240;8;Sandra;Personalizado;Quarta-feira;17.920,00;São Paulo;3
+Murilo;Excel Dashboards;14/06/2016;Pessoa Física;2479;9;Sérgio;Regular;Personalizado;22.311,00;São Paulo;2
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;3200;10;Manuel;Regular;Manhã;32.000,00;São Paulo;3
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;3921;11;Joaquim;Regular;Tarde;43.131,00;São Paulo;2
+Katia;Access VBA;16/06/2016;Pessoa Jurídica;780;8;Paulo;Personalizado;Noite;6.240,00;São Paulo;2
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;980;12;Leandro;Regular;Integral;11.760,00;São Paulo;2
+Renata;Outlook;18/06/2016;Pessoa Física;1020;10;José;Regular;Madrugada;10.200,00;São Paulo;2
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;1340;10;Caio ;Regular;Quinta-feira;13.400,00;São Paulo;4
+Priscila;PowerPoint;18/06/2016;Pessoa Física;1870;8;Caio ;Personalizado;Sexta-feira;14.960,00;São Paulo;5
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Física;1910;10;Fernando;Regular;Personalizado;19.100,00;São Paulo;4
+Murilo;Access;01/06/2016;Pessoa Física;2240;9;Fernando;Regular;Manhã;20.160,00;São Paulo;2
+Roberto;Windows;01/06/2016;Pessoa Jurídica;2479;11;Ana;Regular;Tarde;27.269,00;São Paulo;3
+Myslaine;Excel Básico;01/06/2016;Pessoa Jurídica;3200;11;Paulo;Personalizado;Noite;35.200,00;São Paulo;2
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;3921;12;Sandra;Regular;Integral;47.052,00;São Paulo;2
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;780;10;Sandra;Regular;Madrugada;7.800,00;São Paulo;2
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;980;11;Humberto;Regular;Sábado;10.780,00;São Paulo;3
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;1020;11;Henrique;Personalizado;Domingo;11.220,00;São Paulo;4
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Física;1340;12;Douglas;Regular;Personalizado;16.080,00;São Paulo;4
+Mirian;Access VBA;02/06/2016;Pessoa Física;1870;9;Jane;Regular;Manhã;16.830,00;São Paulo;2
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;1910;9;Caio ;Regular;Tarde;17.190,00;São Paulo;2
+Roberto;Outlook;04/06/2016;Pessoa Jurídica;2240;11;Fernando;Personalizado;Noite;24.640,00;São Paulo;2
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;2479;10;Roberto;Regular;Integral;24.790,00;São Paulo;4
+Katia;PowerPoint;04/06/2016;Pessoa Física;3200;8;Rosana;Regular;Madrugada;25.600,00;São Paulo;2
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;3921;10;Sandra;Regular;Segunda-feira;39.210,00;São Paulo;5
+Renata;Access;06/06/2016;Pessoa Física;780;10;Sérgio;Personalizado;Terça-feira;7.800,00;São Paulo;3
+Rodrigo;Windows;06/06/2016;Pessoa Física;980;10;Manuel;Regular;Personalizado;9.800,00;São Paulo;2
+Priscila;Excel Básico;06/06/2016;Pessoa Física;1020;12;Joaquim;Regular;Manhã;12.240,00;São Paulo;2
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;1340;8;Paulo;Regular;Tarde;10.720,00;São Paulo;3
+Murilo;Excel Avançado;08/06/2016;Pessoa Jurídica;1870;11;Leandro;Personalizado;Noite;20.570,00;São Paulo;2
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;1910;10;José;Regular;Integral;19.100,00;São Paulo;4
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;2240;10;Caio ;Regular;Madrugada;22.400,00;São Paulo;3
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;2479;11;Caio ;Regular;Quarta-feira;27.269,00;São Paulo;5
+Vanessa;Access VBA;10/06/2016;Pessoa Física;3200;10;Fernando;Personalizado;Quinta-feira;32.000,00;São Paulo;3
+Renata;Word VBA;10/06/2016;Pessoa Física;3921;10;Fernando;Regular;Personalizado;39.210,00;São Paulo;4
+Rodrigo;Outlook;10/06/2016;Pessoa Física;780;11;Ana;Regular;Manhã;8.580,00;São Paulo;2
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;980;11;Paulo;Regular;Tarde;10.780,00;São Paulo;4
+Mirian;PowerPoint;12/06/2016;Pessoa Jurídica;1020;12;Sandra;Personalizado;Noite;12.240,00;São Paulo;2
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1340;8;Sandra;Regular;Integral;10.720,00;São Paulo;3
+Roberto;Access;12/06/2016;Pessoa Física;1870;9;Humberto;Regular;Madrugada;16.830,00;São Paulo;4
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;1910;10;Henrique;Regular;Sexta-feira;19.100,00;São Paulo;5
+Katia;Excel Básico;14/06/2016;Pessoa Física;2240;11;Douglas;Personalizado;Sábado;24.640,00;São Paulo;4
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Física;2479;8;Jane;Regular;Personalizado;19.832,00;São Paulo;2
+Renata;Excel Avançado;14/06/2016;Pessoa Física;3200;12;Caio ;Regular;Manhã;38.400,00;São Paulo;5
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;3921;9;Fernando;Regular;Tarde;35.289,00;São Paulo;5
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;780;8;Roberto;Personalizado;Noite;6.240,00;São Paulo;3
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Jurídica;980;12;Rosana;Regular;Integral;11.760,00;São Paulo;5
+Murilo;Access VBA;16/06/2016;Pessoa Física;1020;9;Sandra;Regular;Madrugada;9.180,00;São Paulo;3
+Roberto;Word VBA;16/06/2016;Pessoa Jurídica;1340;12;Sérgio;Regular;Domingo;16.080,00;São Paulo;5
+Myslaine;Outlook;18/06/2016;Pessoa Física;1870;11;Manuel;Personalizado;Segunda-feira;20.570,00;São Paulo;5
+Katia;Outlook VBA;18/06/2016;Pessoa Física;1910;11;Joaquim;Regular;Personalizado;21.010,00;São Paulo;3
+Vanessa;PowerPoint;18/06/2016;Pessoa Física;2240;9;Paulo;Regular;Manhã;20.160,00;São Paulo;2
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;2479;8;Leandro;Regular;Tarde;19.832,00;São Paulo;5
+Rodrigo;Access;01/06/2016;Pessoa Jurídica;3200;8;José;Personalizado;Noite;25.600,00;São Paulo;2
+Priscila;Windows;01/06/2016;Pessoa Jurídica;3921;10;Caio ;Regular;Integral;39.210,00;São Paulo;2
+Mirian;Excel Básico;01/06/2016;Pessoa Física;780;8;Caio ;Regular;Madrugada;6.240,00;São Paulo;3
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;980;9;Fernando;Regular;Terça-feira;8.820,00;São Paulo;3
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;1020;9;Fernando;Personalizado;Quarta-feira;9.180,00;São Paulo;2
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Física;1340;11;Ana;Regular;Personalizado;14.740,00;São Paulo;5
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;1870;11;Paulo;Regular;Manhã;20.570,00;São Paulo;2
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1910;9;Sandra;Regular;Tarde;17.190,00;São Paulo;5
+Renata;Access VBA;02/06/2016;Pessoa Jurídica;2240;8;Sandra;Personalizado;Noite;17.920,00;São Paulo;3
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;2479;8;Humberto;Regular;Integral;19.832,00;São Paulo;2
+Priscila;Outlook;04/06/2016;Pessoa Física;3200;12;Henrique;Regular;Madrugada;38.400,00;São Paulo;4
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;3921;11;Douglas;Regular;Quinta-feira;43.131,00;São Paulo;3
+Murilo;PowerPoint;04/06/2016;Pessoa Física;780;10;Jane;Personalizado;Sexta-feira;7.800,00;São Paulo;2
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Física;980;9;Caio ;Regular;Personalizado;8.820,00;São Paulo;3
+Myslaine;Access;06/06/2016;Pessoa Física;1020;8;Fernando;Regular;Manhã;8.160,00;São Paulo;4
+Katia;Windows;06/06/2016;Pessoa Jurídica;1340;10;Roberto;Regular;Tarde;13.400,00;São Paulo;2
+Vanessa;Excel Básico;06/06/2016;Pessoa Jurídica;1870;9;Rosana;Personalizado;Noite;16.830,00;São Paulo;5
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;1910;10;Sandra;Regular;Integral;19.100,00;São Paulo;4
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;2240;9;Sérgio;Regular;Madrugada;20.160,00;São Paulo;4
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;2479;8;Manuel;Regular;Sábado;19.832,00;São Paulo;5
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;3200;11;Joaquim;Personalizado;Domingo;35.200,00;São Paulo;4
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Física;3921;8;Paulo;Regular;Personalizado;31.368,00;São Paulo;4
+Roberto;Access VBA;10/06/2016;Pessoa Física;780;10;Leandro;Regular;Manhã;7.800,00;São Paulo;3
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;980;8;José;Regular;Tarde;7.840,00;São Paulo;3
+Katia;Outlook;10/06/2016;Pessoa Jurídica;1020;8;Caio ;Personalizado;Noite;8.160,00;São Paulo;4
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;1340;9;Caio ;Regular;Integral;12.060,00;São Paulo;2
+Renata;PowerPoint;12/06/2016;Pessoa Física;1870;8;Fernando;Regular;Madrugada;14.960,00;São Paulo;5
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1910;11;Fernando;Regular;Segunda-feira;21.010,00;São Paulo;3
+Priscila;Access;12/06/2016;Pessoa Física;2240;10;Ana;Personalizado;Terça-feira;22.400,00;São Paulo;4
+Mirian;Windows;12/06/2016;Pessoa Física;2479;12;Paulo;Regular;Personalizado;29.748,00;São Paulo;4
+Murilo;Excel Básico;14/06/2016;Pessoa Física;3200;9;Sandra;Regular;Manhã;28.800,00;São Paulo;4
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;3921;9;Sandra;Regular;Tarde;35.289,00;São Paulo;2
+Myslaine;Excel Avançado;14/06/2016;Pessoa Jurídica;780;12;Humberto;Personalizado;Noite;9.360,00;São Paulo;5
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;980;8;Henrique;Regular;Integral;7.840,00;São Paulo;4
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;1020;8;Douglas;Regular;Madrugada;8.160,00;São Paulo;2
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1340;11;Jane;Regular;Quarta-feira;14.740,00;São Paulo;2
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;1870;11;Caio ;Personalizado;Quinta-feira;20.570,00;São Paulo;5
+Priscila;Word VBA;16/06/2016;Pessoa Física;1910;8;Fernando;Regular;Personalizado;15.280,00;São Paulo;2
+Mirian;Outlook;18/06/2016;Pessoa Física;2240;11;Roberto;Regular;Manhã;24.640,00;São Paulo;4
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;2479;8;Rosana;Regular;Tarde;19.832,00;São Paulo;3
+Roberto;PowerPoint;18/06/2016;Pessoa Jurídica;3200;10;Sandra;Personalizado;Noite;32.000,00;São Paulo;4
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;3921;11;Sérgio;Regular;Integral;43.131,00;São Paulo;2
+Katia;Access;01/06/2016;Pessoa Física;780;11;Manuel;Regular;Madrugada;8.580,00;São Paulo;2
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;980;12;Joaquim;Regular;Sexta-feira;11.760,00;São Paulo;2
+Renata;Excel Básico;01/06/2016;Pessoa Física;1020;10;Paulo;Personalizado;Sábado;10.200,00;São Paulo;3
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Física;1340;12;Leandro;Regular;Personalizado;16.080,00;São Paulo;4
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;1870;10;José;Regular;Manhã;18.700,00;São Paulo;5
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;1910;9;Caio ;Regular;Tarde;17.190,00;São Paulo;3
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;2240;8;Caio ;Personalizado;Noite;17.920,00;São Paulo;3
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;2479;9;Fernando;Regular;Integral;22.311,00;São Paulo;4
+Myslaine;Access VBA;02/06/2016;Pessoa Física;3200;9;Fernando;Regular;Madrugada;28.800,00;São Paulo;4
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;3921;12;Ana;Regular;Domingo;47.052,00;São Paulo;5
+Vanessa;Outlook;04/06/2016;Pessoa Física;780;12;Paulo;Personalizado;Segunda-feira;9.360,00;São Paulo;2
+Renata;Outlook VBA;04/06/2016;Pessoa Física;980;9;Sandra;Regular;Personalizado;8.820,00;São Paulo;5
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;1020;12;Sandra;Regular;Manhã;12.240,00;São Paulo;3
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1340;11;Humberto;Regular;Tarde;14.740,00;São Paulo;3
+Mirian;Access;06/06/2016;Pessoa Jurídica;1870;11;Henrique;Personalizado;Noite;20.570,00;São Paulo;5
+Murilo;Windows;06/06/2016;Pessoa Jurídica;1910;10;Douglas;Regular;Integral;19.100,00;São Paulo;2
+Roberto;Excel Básico;06/06/2016;Pessoa Física;2240;8;Jane;Regular;Madrugada;17.920,00;São Paulo;4
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;2479;9;Caio ;Regular;Terça-feira;22.311,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Física;3200;8;Fernando;Personalizado;Quarta-feira;25.600,00;São Paulo;3
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Física;3921;11;Roberto;Regular;Personalizado;43.131,00;São Paulo;3
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;780;12;Rosana;Regular;Manhã;9.360,00;São Paulo;3
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;980;10;Sandra;Regular;Tarde;9.800,00;São Paulo;4
+Priscila;Access VBA;10/06/2016;Pessoa Jurídica;1020;9;Sérgio;Personalizado;Noite;9.180,00;São Paulo;5
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;1340;10;Manuel;Regular;Integral;13.400,00;São Paulo;2
+Murilo;Outlook;10/06/2016;Pessoa Física;1870;12;Joaquim;Regular;Madrugada;22.440,00;São Paulo;2
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;1910;9;Paulo;Regular;Quinta-feira;17.190,00;São Paulo;5
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;2240;9;Leandro;Personalizado;Sexta-feira;20.160,00;São Paulo;5
+Katia;PowerPoint VBA;12/06/2016;Pessoa Física;2479;9;José;Regular;Personalizado;22.311,00;São Paulo;5
+Vanessa;Access;12/06/2016;Pessoa Física;3200;11;Caio ;Regular;Manhã;35.200,00;São Paulo;3
+Renata;Windows;12/06/2016;Pessoa Jurídica;3921;9;Caio ;Regular;Tarde;35.289,00;São Paulo;3
+Rodrigo;Excel Básico;14/06/2016;Pessoa Jurídica;780;8;Fernando;Personalizado;Noite;6.240,00;São Paulo;4
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;980;9;Fernando;Regular;Integral;8.820,00;São Paulo;3
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;1020;12;Ana;Regular;Madrugada;12.240,00;São Paulo;5
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;1340;11;Paulo;Regular;Sábado;14.740,00;São Paulo;3
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;1870;11;Sandra;Personalizado;Domingo;20.570,00;São Paulo;2
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Física;1910;10;Sandra;Regular;Personalizado;19.100,00;São Paulo;3
+Katia;Access VBA;16/06/2016;Pessoa Física;2240;8;Humberto;Regular;Manhã;17.920,00;São Paulo;3
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;2479;12;Henrique;Regular;Tarde;29.748,00;São Paulo;2
+Renata;Outlook;18/06/2016;Pessoa Jurídica;3200;9;Douglas;Personalizado;Noite;28.800,00;São Paulo;4
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;3921;9;Jane;Regular;Integral;35.289,00;São Paulo;4
+Priscila;PowerPoint;18/06/2016;Pessoa Física;780;10;Caio ;Regular;Madrugada;7.800,00;São Paulo;2
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;980;10;Fernando;Regular;Segunda-feira;9.800,00;São Paulo;2
+Murilo;Access;01/06/2016;Pessoa Física;1020;10;Roberto;Personalizado;Terça-feira;10.200,00;São Paulo;4
+Roberto;Windows;01/06/2016;Pessoa Física;1340;11;Rosana;Regular;Personalizado;14.740,00;São Paulo;4
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;1870;10;Sandra;Regular;Manhã;18.700,00;São Paulo;3
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;1910;10;Sérgio;Regular;Tarde;19.100,00;São Paulo;2
+Vanessa;Excel Avançado;01/06/2016;Pessoa Jurídica;2240;8;Manuel;Personalizado;Noite;17.920,00;São Paulo;2
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;2479;10;Joaquim;Regular;Integral;24.790,00;São Paulo;4
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;3200;10;Paulo;Regular;Madrugada;32.000,00;São Paulo;2
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;3921;9;Leandro;Regular;Quarta-feira;35.289,00;São Paulo;3
+Mirian;Access VBA;02/06/2016;Pessoa Física;780;10;José;Personalizado;Quinta-feira;7.800,00;São Paulo;4
+Murilo;Word VBA;02/06/2016;Pessoa Física;980;8;Caio ;Regular;Personalizado;7.840,00;São Paulo;5
+Roberto;Outlook;04/06/2016;Pessoa Física;1020;12;Caio ;Regular;Manhã;12.240,00;São Paulo;4
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;1340;12;Fernando;Regular;Tarde;16.080,00;São Paulo;5
+Katia;PowerPoint;04/06/2016;Pessoa Jurídica;1870;8;Fernando;Personalizado;Noite;14.960,00;São Paulo;3
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1910;8;Ana;Regular;Integral;15.280,00;São Paulo;3
+Renata;Access;06/06/2016;Pessoa Física;2240;8;Paulo;Regular;Madrugada;17.920,00;São Paulo;2
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;2479;10;Sandra;Regular;Sexta-feira;24.790,00;São Paulo;5
+Priscila;Excel Básico;06/06/2016;Pessoa Física;3200;11;Sandra;Personalizado;Sábado;35.200,00;São Paulo;3
+Mirian;Excel Intermediário;06/06/2016;Pessoa Física;3921;12;Humberto;Regular;Personalizado;47.052,00;São Paulo;5
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;780;10;Henrique;Regular;Manhã;7.800,00;São Paulo;4
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;980;12;Douglas;Regular;Tarde;11.760,00;São Paulo;3
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;1020;12;Jane;Personalizado;Noite;12.240,00;São Paulo;5
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1340;12;Caio ;Regular;Integral;16.080,00;São Paulo;4
+Vanessa;Access VBA;10/06/2016;Pessoa Física;1870;9;Fernando;Regular;Madrugada;16.830,00;São Paulo;2
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;1910;12;Roberto;Regular;Domingo;22.920,00;São Paulo;2
+Rodrigo;Outlook;10/06/2016;Pessoa Física;2240;8;Rosana;Personalizado;Segunda-feira;17.920,00;São Paulo;3
+Priscila;Outlook VBA;10/06/2016;Pessoa Física;2479;12;Sandra;Regular;Personalizado;29.748,00;São Paulo;2
+Mirian;PowerPoint;12/06/2016;Pessoa Física;3200;8;Sérgio;Regular;Manhã;25.600,00;São Paulo;4
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;3921;12;Manuel;Regular;Tarde;47.052,00;São Paulo;3
+Roberto;Access;12/06/2016;Pessoa Jurídica;780;8;Joaquim;Personalizado;Noite;6.240,00;São Paulo;4
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;980;9;Paulo;Regular;Integral;8.820,00;São Paulo;4
+Katia;Excel Básico;14/06/2016;Pessoa Física;1020;10;Leandro;Regular;Madrugada;10.200,00;São Paulo;4
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;1340;11;José;Regular;Terça-feira;14.740,00;São Paulo;3
+Renata;Excel Avançado;14/06/2016;Pessoa Física;1870;9;Caio ;Personalizado;Quarta-feira;16.830,00;São Paulo;4
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Física;1910;11;Caio ;Regular;Personalizado;21.010,00;São Paulo;5
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Física;2240;10;Fernando;Regular;Manhã;22.400,00;São Paulo;4
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Jurídica;2479;10;Fernando;Regular;Tarde;24.790,00;São Paulo;5
+Murilo;Access VBA;16/06/2016;Pessoa Jurídica;3200;11;Ana;Personalizado;Noite;35.200,00;São Paulo;3
+Roberto;Word VBA;16/06/2016;Pessoa Jurídica;3921;11;Paulo;Regular;Integral;43.131,00;São Paulo;2
+Myslaine;Outlook;18/06/2016;Pessoa Física;780;8;Sandra;Regular;Madrugada;6.240,00;São Paulo;2
+Katia;Outlook VBA;18/06/2016;Pessoa Jurídica;980;8;Sandra;Regular;Quinta-feira;7.840,00;São Paulo;2
+Vanessa;PowerPoint;18/06/2016;Pessoa Física;1020;11;Humberto;Personalizado;Sexta-feira;11.220,00;São Paulo;5
+Renata;PowerPoint VBA;18/06/2016;Pessoa Física;1340;10;Henrique;Regular;Personalizado;13.400,00;São Paulo;3
+Rodrigo;Access;01/06/2016;Pessoa Física;1870;12;Douglas;Regular;Manhã;22.440,00;São Paulo;3
+Priscila;Windows;01/06/2016;Pessoa Jurídica;1910;12;Jane;Regular;Tarde;22.920,00;São Paulo;4
+Mirian;Excel Básico;01/06/2016;Pessoa Jurídica;2240;10;Caio ;Personalizado;Noite;22.400,00;São Paulo;5
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;2479;10;Fernando;Regular;Integral;24.790,00;São Paulo;4
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;3200;12;Roberto;Regular;Madrugada;38.400,00;São Paulo;5
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;3921;9;Rosana;Regular;Sábado;35.289,00;São Paulo;2
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;780;9;Sandra;Personalizado;Domingo;7.020,00;São Paulo;5
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Física;980;11;Sérgio;Regular;Personalizado;10.780,00;São Paulo;5
+Renata;Access VBA;02/06/2016;Pessoa Física;1020;12;Manuel;Regular;Manhã;12.240,00;São Paulo;5
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;1340;8;Joaquim;Regular;Tarde;10.720,00;São Paulo;5
+Priscila;Outlook;04/06/2016;Pessoa Jurídica;1870;12;Paulo;Personalizado;Noite;22.440,00;São Paulo;5
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;1910;12;Leandro;Regular;Integral;22.920,00;São Paulo;2
+Murilo;PowerPoint;04/06/2016;Pessoa Física;2240;9;José;Regular;Madrugada;20.160,00;São Paulo;2
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;2479;12;Caio ;Regular;Segunda-feira;29.748,00;São Paulo;5
+Myslaine;Access;06/06/2016;Pessoa Física;3200;9;Caio ;Personalizado;Terça-feira;28.800,00;São Paulo;2
+Katia;Windows;06/06/2016;Pessoa Física;3921;10;Fernando;Regular;Personalizado;39.210,00;São Paulo;2
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;780;11;Fernando;Regular;Manhã;8.580,00;São Paulo;4
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;980;9;Ana;Regular;Tarde;8.820,00;São Paulo;5
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Jurídica;1020;11;Paulo;Personalizado;Noite;11.220,00;São Paulo;5
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;1340;11;Sandra;Regular;Integral;14.740,00;São Paulo;3
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;1870;9;Sandra;Regular;Madrugada;16.830,00;São Paulo;4
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1910;12;Humberto;Regular;Quarta-feira;22.920,00;São Paulo;4
+Roberto;Access VBA;10/06/2016;Pessoa Física;2240;9;Henrique;Personalizado;Quinta-feira;20.160,00;São Paulo;3
+Myslaine;Word VBA;10/06/2016;Pessoa Física;2479;10;Douglas;Regular;Personalizado;24.790,00;São Paulo;4
+Katia;Outlook;10/06/2016;Pessoa Física;3200;9;Jane;Regular;Manhã;28.800,00;São Paulo;2
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;3921;12;Caio ;Regular;Tarde;47.052,00;São Paulo;5
+Renata;PowerPoint;12/06/2016;Pessoa Jurídica;780;8;Fernando;Personalizado;Noite;6.240,00;São Paulo;3
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;980;9;Roberto;Regular;Integral;8.820,00;São Paulo;4
+Priscila;Access;12/06/2016;Pessoa Física;1020;12;Rosana;Regular;Madrugada;12.240,00;São Paulo;3
+Mirian;Windows;12/06/2016;Pessoa Jurídica;1340;8;Sandra;Regular;Sexta-feira;10.720,00;São Paulo;3
+Murilo;Excel Básico;14/06/2016;Pessoa Física;1870;12;Sérgio;Personalizado;Sábado;22.440,00;São Paulo;3
+Roberto;Excel Intermediário;14/06/2016;Pessoa Física;1910;10;Manuel;Regular;Personalizado;19.100,00;São Paulo;3
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;2240;8;Joaquim;Regular;Manhã;17.920,00;São Paulo;3
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;2479;8;Paulo;Regular;Tarde;19.832,00;São Paulo;2
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;3200;8;Leandro;Personalizado;Noite;25.600,00;São Paulo;4
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;3921;9;José;Regular;Integral;35.289,00;São Paulo;4
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;780;9;Caio ;Regular;Madrugada;7.020,00;São Paulo;2
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;980;9;Caio ;Regular;Domingo;8.820,00;São Paulo;3
+Mirian;Outlook;18/06/2016;Pessoa Física;1020;11;Fernando;Personalizado;Segunda-feira;11.220,00;São Paulo;3
+Murilo;Outlook VBA;18/06/2016;Pessoa Física;1340;9;Fernando;Regular;Personalizado;12.060,00;São Paulo;5
+Roberto;PowerPoint;18/06/2016;Pessoa Física;1870;12;Ana;Regular;Manhã;22.440,00;São Paulo;4
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1910;11;Paulo;Regular;Tarde;21.010,00;São Paulo;5
+Katia;Access;01/06/2016;Pessoa Jurídica;2240;9;Sandra;Personalizado;Noite;20.160,00;São Paulo;5
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;2479;8;Sandra;Regular;Integral;19.832,00;São Paulo;5
+Renata;Excel Básico;01/06/2016;Pessoa Física;3200;9;Humberto;Regular;Madrugada;28.800,00;São Paulo;3
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;3921;10;Henrique;Regular;Terça-feira;39.210,00;São Paulo;2
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;780;8;Douglas;Personalizado;Quarta-feira;6.240,00;São Paulo;3
+Mirian;Excel Dashboards;01/06/2016;Pessoa Física;980;12;Jane;Regular;Personalizado;11.760,00;São Paulo;2
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;1020;10;Caio ;Regular;Manhã;10.200,00;São Paulo;2
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1340;10;Fernando;Regular;Tarde;13.400,00;São Paulo;2
+Myslaine;Access VBA;02/06/2016;Pessoa Jurídica;1870;12;Roberto;Personalizado;Noite;22.440,00;São Paulo;4
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;1910;9;Rosana;Regular;Integral;17.190,00;São Paulo;2
+Vanessa;Outlook;04/06/2016;Pessoa Física;2240;10;Sandra;Regular;Madrugada;22.400,00;São Paulo;5
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;2479;11;Sérgio;Regular;Quinta-feira;27.269,00;São Paulo;2
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;3200;9;Manuel;Personalizado;Sexta-feira;28.800,00;São Paulo;3
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Física;3921;11;Joaquim;Regular;Personalizado;43.131,00;São Paulo;4
+Mirian;Access;06/06/2016;Pessoa Física;780;9;Paulo;Regular;Manhã;7.020,00;São Paulo;5
+Murilo;Windows;06/06/2016;Pessoa Jurídica;980;12;Leandro;Regular;Tarde;11.760,00;São Paulo;4
+Roberto;Excel Básico;06/06/2016;Pessoa Jurídica;1020;12;José;Personalizado;Noite;12.240,00;São Paulo;4
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;1340;12;Caio ;Regular;Integral;16.080,00;São Paulo;4
+Katia;Excel Avançado;08/06/2016;Pessoa Física;1870;12;Caio ;Regular;Madrugada;22.440,00;São Paulo;4
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;1910;10;Fernando;Regular;Sábado;19.100,00;São Paulo;2
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;2240;10;Fernando;Personalizado;Domingo;22.400,00;São Paulo;5
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Física;2479;12;Ana;Regular;Personalizado;29.748,00;São Paulo;3
+Priscila;Access VBA;10/06/2016;Pessoa Física;3200;12;Paulo;Regular;Manhã;38.400,00;São Paulo;4
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;3921;9;Sandra;Regular;Tarde;35.289,00;São Paulo;4
+Murilo;Outlook;10/06/2016;Pessoa Jurídica;780;9;Sandra;Personalizado;Noite;7.020,00;São Paulo;2
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;980;10;Humberto;Regular;Integral;9.800,00;São Paulo;3
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;1020;8;Henrique;Regular;Madrugada;8.160,00;São Paulo;5
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1340;9;Douglas;Regular;Segunda-feira;12.060,00;São Paulo;4
+Vanessa;Access;12/06/2016;Pessoa Física;1870;12;Jane;Personalizado;Terça-feira;22.440,00;São Paulo;4
+Renata;Windows;12/06/2016;Pessoa Física;1910;9;Caio ;Regular;Personalizado;17.190,00;São Paulo;2
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;2240;12;Fernando;Regular;Manhã;26.880,00;São Paulo;4
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;2479;11;Roberto;Regular;Tarde;27.269,00;São Paulo;3
+Mirian;Excel Avançado;14/06/2016;Pessoa Jurídica;3200;12;Rosana;Personalizado;Noite;38.400,00;São Paulo;5
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;3921;9;Sandra;Regular;Integral;35.289,00;São Paulo;2
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;780;11;Sérgio;Regular;Madrugada;8.580,00;São Paulo;3
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;980;8;Manuel;Regular;Quarta-feira;7.840,00;São Paulo;4
+Katia;Access VBA;16/06/2016;Pessoa Física;1020;12;Joaquim;Personalizado;Quinta-feira;12.240,00;São Paulo;2
+Vanessa;Word VBA;16/06/2016;Pessoa Física;1340;12;Paulo;Regular;Personalizado;16.080,00;São Paulo;5
+Renata;Outlook;18/06/2016;Pessoa Física;1870;11;Leandro;Regular;Manhã;20.570,00;São Paulo;2
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;1910;12;José;Regular;Tarde;22.920,00;São Paulo;3
+Priscila;PowerPoint;18/06/2016;Pessoa Jurídica;2240;11;Caio ;Personalizado;Noite;24.640,00;São Paulo;4
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;2479;9;Caio ;Regular;Integral;22.311,00;São Paulo;3
+Murilo;Access;01/06/2016;Pessoa Física;3200;9;Fernando;Regular;Madrugada;28.800,00;São Paulo;3
+Roberto;Windows;01/06/2016;Pessoa Jurídica;3921;10;Fernando;Regular;Sexta-feira;39.210,00;São Paulo;4
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;780;11;Ana;Personalizado;Sábado;8.580,00;São Paulo;5
+Katia;Excel Intermediário;01/06/2016;Pessoa Física;980;10;Paulo;Regular;Personalizado;9.800,00;São Paulo;4
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;1020;8;Sandra;Regular;Manhã;8.160,00;São Paulo;5
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;1340;11;Sandra;Regular;Tarde;14.740,00;São Paulo;5
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;1870;12;Humberto;Personalizado;Noite;22.440,00;São Paulo;5
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1910;11;Henrique;Regular;Integral;21.010,00;São Paulo;4
+Mirian;Access VBA;02/06/2016;Pessoa Física;2240;10;Douglas;Regular;Madrugada;22.400,00;São Paulo;2
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;2479;11;Jane;Regular;Domingo;27.269,00;São Paulo;4
+Roberto;Outlook;04/06/2016;Pessoa Física;3200;8;Caio ;Personalizado;Segunda-feira;25.600,00;São Paulo;2
+Myslaine;Outlook VBA;04/06/2016;Pessoa Física;3921;12;Fernando;Regular;Personalizado;47.052,00;São Paulo;4
+Katia;PowerPoint;04/06/2016;Pessoa Física;780;10;Roberto;Regular;Manhã;7.800,00;São Paulo;4
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;980;10;Rosana;Regular;Tarde;9.800,00;São Paulo;3
+Renata;Access;06/06/2016;Pessoa Jurídica;1020;11;Sandra;Personalizado;Noite;11.220,00;São Paulo;5
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;1340;9;Sérgio;Regular;Integral;12.060,00;São Paulo;4
+Priscila;Excel Básico;06/06/2016;Pessoa Física;1870;8;Manuel;Regular;Madrugada;14.960,00;São Paulo;3
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;1910;8;Joaquim;Regular;Terça-feira;15.280,00;São Paulo;4
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;2240;12;Paulo;Personalizado;Quarta-feira;26.880,00;São Paulo;4
+Roberto;Excel Dashboards;08/06/2016;Pessoa Física;2479;12;Leandro;Regular;Personalizado;29.748,00;São Paulo;4
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;3200;8;José;Regular;Manhã;25.600,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;3921;11;Caio ;Regular;Tarde;43.131,00;São Paulo;3
+Vanessa;Access VBA;10/06/2016;Pessoa Jurídica;780;8;Caio ;Personalizado;Noite;6.240,00;São Paulo;2
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;980;8;Fernando;Regular;Integral;7.840,00;São Paulo;4
+Rodrigo;Outlook;10/06/2016;Pessoa Física;1020;11;Fernando;Regular;Madrugada;11.220,00;São Paulo;3
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;1340;8;Ana;Regular;Quinta-feira;10.720,00;São Paulo;5
+Mirian;PowerPoint;12/06/2016;Pessoa Física;1870;12;Paulo;Personalizado;Sexta-feira;22.440,00;São Paulo;5
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Física;1910;10;Sandra;Regular;Personalizado;19.100,00;São Paulo;4
+Roberto;Access;12/06/2016;Pessoa Física;2240;12;Sandra;Regular;Manhã;26.880,00;São Paulo;3
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;2479;10;Humberto;Regular;Tarde;24.790,00;São Paulo;2
+Katia;Excel Básico;14/06/2016;Pessoa Jurídica;3200;8;Henrique;Personalizado;Noite;25.600,00;São Paulo;5
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;3921;10;Douglas;Regular;Integral;39.210,00;São Paulo;4
+Renata;Excel Avançado;14/06/2016;Pessoa Física;780;11;Jane;Regular;Madrugada;8.580,00;São Paulo;3
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;980;10;Caio ;Regular;Sábado;9.800,00;São Paulo;5
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Física;1020;10;Fernando;Personalizado;Domingo;10.200,00;São Paulo;5
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Física;1340;10;Roberto;Regular;Personalizado;13.400,00;São Paulo;5
+Murilo;Access VBA;16/06/2016;Pessoa Física;1870;11;Rosana;Regular;Manhã;20.570,00;São Paulo;2
+Roberto;Word VBA;16/06/2016;Pessoa Jurídica;1910;8;Sandra;Regular;Tarde;15.280,00;São Paulo;4
+Myslaine;Outlook;18/06/2016;Pessoa Jurídica;2240;11;Sérgio;Personalizado;Noite;24.640,00;São Paulo;2
+Katia;Outlook VBA;18/06/2016;Pessoa Jurídica;2479;8;Manuel;Regular;Integral;19.832,00;São Paulo;4
+Vanessa;PowerPoint;18/06/2016;Pessoa Física;3200;9;Joaquim;Regular;Madrugada;28.800,00;São Paulo;5
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;3921;10;Paulo;Regular;Segunda-feira;39.210,00;São Paulo;4
+Rodrigo;Access;01/06/2016;Pessoa Física;780;8;Leandro;Personalizado;Terça-feira;6.240,00;São Paulo;5
+Priscila;Windows;01/06/2016;Pessoa Física;980;12;José;Regular;Personalizado;11.760,00;São Paulo;5
+Mirian;Excel Básico;01/06/2016;Pessoa Física;1020;12;Caio ;Regular;Manhã;12.240,00;São Paulo;3
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;1340;9;Caio ;Regular;Tarde;12.060,00;São Paulo;2
+Roberto;Excel Avançado;01/06/2016;Pessoa Jurídica;1870;10;Fernando;Personalizado;Noite;18.700,00;São Paulo;2
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;1910;11;Fernando;Regular;Integral;21.010,00;São Paulo;4
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;2240;11;Ana;Regular;Madrugada;24.640,00;São Paulo;3
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;2479;12;Paulo;Regular;Quarta-feira;29.748,00;São Paulo;2
+Renata;Access VBA;02/06/2016;Pessoa Física;3200;10;Sandra;Personalizado;Quinta-feira;32.000,00;São Paulo;5
+Rodrigo;Word VBA;02/06/2016;Pessoa Física;3921;9;Sandra;Regular;Personalizado;35.289,00;São Paulo;3
+Priscila;Outlook;04/06/2016;Pessoa Física;780;9;Humberto;Regular;Manhã;7.020,00;São Paulo;3
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;980;12;Henrique;Regular;Tarde;11.760,00;São Paulo;3
+Murilo;PowerPoint;04/06/2016;Pessoa Jurídica;1020;11;Douglas;Personalizado;Noite;11.220,00;São Paulo;5
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1340;8;Jane;Regular;Integral;10.720,00;São Paulo;5
+Myslaine;Access;06/06/2016;Pessoa Física;1870;9;Caio ;Regular;Madrugada;16.830,00;São Paulo;5
+Katia;Windows;06/06/2016;Pessoa Jurídica;1910;8;Fernando;Regular;Sexta-feira;15.280,00;São Paulo;5
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;2240;8;Roberto;Personalizado;Sábado;17.920,00;São Paulo;4
+Renata;Excel Intermediário;06/06/2016;Pessoa Física;2479;9;Rosana;Regular;Personalizado;22.311,00;São Paulo;3
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;3200;9;Sandra;Regular;Manhã;28.800,00;São Paulo;4
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;3921;10;Sérgio;Regular;Tarde;39.210,00;São Paulo;5
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;780;12;Manuel;Personalizado;Noite;9.360,00;São Paulo;2
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;980;11;Joaquim;Regular;Integral;10.780,00;São Paulo;2
+Roberto;Access VBA;10/06/2016;Pessoa Física;1020;11;Paulo;Regular;Madrugada;11.220,00;São Paulo;3
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;1340;9;Leandro;Regular;Domingo;12.060,00;São Paulo;2
+Katia;Outlook;10/06/2016;Pessoa Física;1870;9;José;Personalizado;Segunda-feira;16.830,00;São Paulo;5
+Vanessa;Outlook VBA;10/06/2016;Pessoa Física;1910;10;Caio ;Regular;Personalizado;19.100,00;São Paulo;4
+Renata;PowerPoint;12/06/2016;Pessoa Física;2240;8;Caio ;Regular;Manhã;17.920,00;São Paulo;2
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;2479;9;Fernando;Regular;Tarde;22.311,00;São Paulo;2
+Priscila;Access;12/06/2016;Pessoa Jurídica;3200;11;Fernando;Personalizado;Noite;35.200,00;São Paulo;3
+Mirian;Windows;12/06/2016;Pessoa Jurídica;3921;11;Ana;Regular;Integral;43.131,00;São Paulo;5
+Murilo;Excel Básico;14/06/2016;Pessoa Física;780;10;Paulo;Regular;Madrugada;7.800,00;São Paulo;3
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;980;12;Sandra;Regular;Terça-feira;11.760,00;São Paulo;3
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;1020;8;Sandra;Personalizado;Quarta-feira;8.160,00;São Paulo;3
+Katia;Excel Dashboards;14/06/2016;Pessoa Física;1340;8;Humberto;Regular;Personalizado;10.720,00;São Paulo;4
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;1870;10;Henrique;Regular;Manhã;18.700,00;São Paulo;5
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1910;11;Douglas;Regular;Tarde;21.010,00;São Paulo;4
+Rodrigo;Access VBA;16/06/2016;Pessoa Jurídica;2240;12;Jane;Personalizado;Noite;26.880,00;São Paulo;4
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;2479;11;Caio ;Regular;Integral;27.269,00;São Paulo;3
+Mirian;Outlook;18/06/2016;Pessoa Física;3200;8;Fernando;Regular;Madrugada;25.600,00;São Paulo;5
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;3921;12;Roberto;Regular;Quinta-feira;47.052,00;São Paulo;2
+Roberto;PowerPoint;18/06/2016;Pessoa Física;780;12;Rosana;Personalizado;Sexta-feira;9.360,00;São Paulo;3
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Física;980;9;Sandra;Regular;Personalizado;8.820,00;São Paulo;2
+Katia;Access;01/06/2016;Pessoa Física;1020;12;Sérgio;Regular;Manhã;12.240,00;São Paulo;4
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;1340;10;Manuel;Regular;Tarde;13.400,00;São Paulo;5
+Renata;Excel Básico;01/06/2016;Pessoa Jurídica;1870;10;Joaquim;Personalizado;Noite;18.700,00;São Paulo;2
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;1910;8;Paulo;Regular;Integral;15.280,00;São Paulo;4
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;2240;9;Leandro;Regular;Madrugada;20.160,00;São Paulo;4
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;2479;10;José;Regular;Sábado;24.790,00;São Paulo;3
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;3200;8;Caio ;Personalizado;Domingo;25.600,00;São Paulo;2
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Física;3921;10;Caio ;Regular;Personalizado;39.210,00;São Paulo;3
+Myslaine;Access VBA;02/06/2016;Pessoa Física;780;8;Fernando;Regular;Manhã;6.240,00;São Paulo;3
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;980;8;Fernando;Regular;Tarde;7.840,00;São Paulo;2
+Vanessa;Outlook;04/06/2016;Pessoa Jurídica;1020;11;Ana;Personalizado;Noite;11.220,00;São Paulo;2
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;1340;10;Paulo;Regular;Integral;13.400,00;São Paulo;5
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;1870;11;Sandra;Regular;Madrugada;20.570,00;São Paulo;5
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1910;8;Sandra;Regular;Segunda-feira;15.280,00;São Paulo;3
+Mirian;Access;06/06/2016;Pessoa Física;2240;9;Humberto;Personalizado;Terça-feira;20.160,00;São Paulo;4
+Murilo;Windows;06/06/2016;Pessoa Física;2479;9;Henrique;Regular;Personalizado;22.311,00;São Paulo;2
+Roberto;Excel Básico;06/06/2016;Pessoa Física;3200;11;Douglas;Regular;Manhã;35.200,00;São Paulo;5
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;3921;11;Jane;Regular;Tarde;43.131,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Jurídica;780;10;Caio ;Personalizado;Noite;7.800,00;São Paulo;5
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;980;12;Fernando;Regular;Integral;11.760,00;São Paulo;5
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;1020;10;Roberto;Regular;Madrugada;10.200,00;São Paulo;4
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1340;9;Rosana;Regular;Quarta-feira;12.060,00;São Paulo;3
+Priscila;Access VBA;10/06/2016;Pessoa Física;1870;10;Sandra;Personalizado;Quinta-feira;18.700,00;São Paulo;3
+Mirian;Word VBA;10/06/2016;Pessoa Física;1910;11;Sérgio;Regular;Personalizado;21.010,00;São Paulo;3
+Murilo;Outlook;10/06/2016;Pessoa Física;2240;12;Manuel;Regular;Manhã;26.880,00;São Paulo;3
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;2479;8;Joaquim;Regular;Tarde;19.832,00;São Paulo;5
+Myslaine;PowerPoint;12/06/2016;Pessoa Jurídica;3200;8;Paulo;Personalizado;Noite;25.600,00;São Paulo;2
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;3921;11;Leandro;Regular;Integral;43.131,00;São Paulo;3
+Vanessa;Access;12/06/2016;Pessoa Física;780;9;José;Regular;Madrugada;7.020,00;São Paulo;5
+Renata;Windows;12/06/2016;Pessoa Jurídica;980;10;Caio ;Regular;Sexta-feira;9.800,00;São Paulo;5
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;1020;11;Caio ;Personalizado;Sábado;11.220,00;São Paulo;5
+Priscila;Excel Intermediário;14/06/2016;Pessoa Física;1340;8;Fernando;Regular;Personalizado;10.720,00;São Paulo;3
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;1870;11;Fernando;Regular;Manhã;20.570,00;São Paulo;5
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;1910;12;Ana;Regular;Tarde;22.920,00;São Paulo;3
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;2240;10;Paulo;Personalizado;Noite;22.400,00;São Paulo;4
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;2479;12;Sandra;Regular;Integral;29.748,00;São Paulo;4
+Katia;Access VBA;16/06/2016;Pessoa Física;3200;8;Sandra;Regular;Madrugada;25.600,00;São Paulo;5
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;3921;8;Humberto;Regular;Domingo;31.368,00;São Paulo;4
+Renata;Outlook;18/06/2016;Pessoa Física;780;12;Henrique;Personalizado;Segunda-feira;9.360,00;São Paulo;5
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Física;980;11;Douglas;Regular;Personalizado;10.780,00;São Paulo;3
+Priscila;PowerPoint;18/06/2016;Pessoa Física;1020;10;Jane;Regular;Manhã;10.200,00;São Paulo;5
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1340;8;Caio ;Regular;Tarde;10.720,00;São Paulo;5
+Murilo;Access;01/06/2016;Pessoa Jurídica;1870;8;Fernando;Personalizado;Noite;14.960,00;São Paulo;2
+Roberto;Windows;01/06/2016;Pessoa Jurídica;1910;10;Roberto;Regular;Integral;19.100,00;São Paulo;3
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;2240;9;Rosana;Regular;Madrugada;20.160,00;São Paulo;4
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;2479;12;Sandra;Regular;Terça-feira;29.748,00;São Paulo;4
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;3200;8;Sérgio;Personalizado;Quarta-feira;25.600,00;São Paulo;4
+Renata;Excel Dashboards;01/06/2016;Pessoa Física;3921;12;Manuel;Regular;Personalizado;47.052,00;São Paulo;3
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;780;9;Joaquim;Regular;Manhã;7.020,00;São Paulo;4
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;980;11;Paulo;Regular;Tarde;10.780,00;São Paulo;4
+Mirian;Access VBA;02/06/2016;Pessoa Jurídica;1020;12;Leandro;Personalizado;Noite;12.240,00;São Paulo;2
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;1340;10;José;Regular;Integral;13.400,00;São Paulo;2
+Roberto;Outlook;04/06/2016;Pessoa Física;1870;8;Caio ;Regular;Madrugada;14.960,00;São Paulo;3
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;1910;8;Caio ;Regular;Quinta-feira;15.280,00;São Paulo;5
+Katia;PowerPoint;04/06/2016;Pessoa Física;2240;11;Fernando;Personalizado;Sexta-feira;24.640,00;São Paulo;4
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Física;2479;10;Fernando;Regular;Personalizado;24.790,00;São Paulo;2
+Renata;Access;06/06/2016;Pessoa Física;3200;10;Ana;Regular;Manhã;32.000,00;São Paulo;3
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;3921;12;Paulo;Regular;Tarde;47.052,00;São Paulo;2
+Priscila;Excel Básico;06/06/2016;Pessoa Jurídica;780;11;Sandra;Personalizado;Noite;8.580,00;São Paulo;3
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;980;10;Sandra;Regular;Integral;9.800,00;São Paulo;5
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;1020;12;Humberto;Regular;Madrugada;12.240,00;São Paulo;3
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;1340;10;Henrique;Regular;Sábado;13.400,00;São Paulo;4
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;1870;9;Douglas;Personalizado;Domingo;16.830,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Física;1910;10;Jane;Regular;Personalizado;19.100,00;São Paulo;5
+Vanessa;Access VBA;10/06/2016;Pessoa Física;2240;8;Caio ;Regular;Manhã;17.920,00;São Paulo;4
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;2479;9;Fernando;Regular;Tarde;22.311,00;São Paulo;4
+Rodrigo;Outlook;10/06/2016;Pessoa Jurídica;3200;9;Roberto;Personalizado;Noite;28.800,00;São Paulo;2
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;3921;12;Rosana;Regular;Integral;47.052,00;São Paulo;5
+Mirian;PowerPoint;12/06/2016;Pessoa Física;780;11;Sandra;Regular;Madrugada;8.580,00;São Paulo;4
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;980;8;Sérgio;Regular;Segunda-feira;7.840,00;São Paulo;4
+Roberto;Access;12/06/2016;Pessoa Física;1020;9;Manuel;Personalizado;Terça-feira;9.180,00;São Paulo;5
+Myslaine;Windows;12/06/2016;Pessoa Física;1340;10;Joaquim;Regular;Personalizado;13.400,00;São Paulo;5
+Katia;Excel Básico;14/06/2016;Pessoa Física;1870;10;Paulo;Regular;Manhã;18.700,00;São Paulo;3
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;1910;10;Leandro;Regular;Tarde;19.100,00;São Paulo;5
+Renata;Excel Avançado;14/06/2016;Pessoa Jurídica;2240;10;José;Personalizado;Noite;22.400,00;São Paulo;2
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;2479;12;Caio ;Regular;Integral;29.748,00;São Paulo;3
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Física;3200;8;Caio ;Regular;Madrugada;25.600,00;São Paulo;2
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Jurídica;3921;11;Fernando;Regular;Quarta-feira;43.131,00;São Paulo;2
+Murilo;Access VBA;16/06/2016;Pessoa Física;780;9;Fernando;Personalizado;Quinta-feira;7.020,00;São Paulo;5
+Roberto;Word VBA;16/06/2016;Pessoa Física;980;9;Ana;Regular;Personalizado;8.820,00;São Paulo;4
+Myslaine;Outlook;18/06/2016;Pessoa Física;1020;8;Paulo;Regular;Manhã;8.160,00;São Paulo;4
+Katia;Outlook VBA;18/06/2016;Pessoa Jurídica;1340;8;Sandra;Regular;Tarde;10.720,00;São Paulo;5
+Vanessa;PowerPoint;18/06/2016;Pessoa Jurídica;1870;11;Sandra;Personalizado;Noite;20.570,00;São Paulo;3
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1910;10;Humberto;Regular;Integral;19.100,00;São Paulo;4
+Rodrigo;Access;01/06/2016;Pessoa Física;2240;8;Henrique;Regular;Madrugada;17.920,00;São Paulo;4
+Priscila;Windows;01/06/2016;Pessoa Jurídica;2479;10;Douglas;Regular;Sexta-feira;24.790,00;São Paulo;3
+Mirian;Excel Básico;01/06/2016;Pessoa Física;3200;8;Jane;Personalizado;Sábado;25.600,00;São Paulo;4
+Murilo;Excel Intermediário;01/06/2016;Pessoa Física;3921;10;Caio ;Regular;Personalizado;39.210,00;São Paulo;5
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;780;9;Fernando;Regular;Manhã;7.020,00;São Paulo;4
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Jurídica;980;12;Roberto;Regular;Tarde;11.760,00;São Paulo;2
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;1020;8;Rosana;Personalizado;Noite;8.160,00;São Paulo;3
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1340;10;Sandra;Regular;Integral;13.400,00;São Paulo;5
+Renata;Access VBA;02/06/2016;Pessoa Física;1870;12;Sérgio;Regular;Madrugada;22.440,00;São Paulo;5
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;1910;9;Manuel;Regular;Domingo;17.190,00;São Paulo;2
+Priscila;Outlook;04/06/2016;Pessoa Física;2240;10;Joaquim;Personalizado;Segunda-feira;22.400,00;São Paulo;5
+Mirian;Outlook VBA;04/06/2016;Pessoa Física;2479;8;Paulo;Regular;Personalizado;19.832,00;São Paulo;3
+Murilo;PowerPoint;04/06/2016;Pessoa Física;3200;12;Leandro;Regular;Manhã;38.400,00;São Paulo;2
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Jurídica;3921;9;José;Regular;Tarde;35.289,00;São Paulo;2
+Myslaine;Access;06/06/2016;Pessoa Jurídica;780;12;Caio ;Personalizado;Noite;9.360,00;São Paulo;5
+Katia;Windows;06/06/2016;Pessoa Jurídica;980;12;Caio ;Regular;Integral;11.760,00;São Paulo;5
+Vanessa;Excel Básico;06/06/2016;Pessoa Física;1020;10;Fernando;Regular;Madrugada;10.200,00;São Paulo;4
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;1340;9;Fernando;Regular;Terça-feira;12.060,00;São Paulo;5
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;1870;8;Ana;Personalizado;Quarta-feira;14.960,00;São Paulo;3
+Priscila;Excel Dashboards;08/06/2016;Pessoa Física;1910;8;Paulo;Regular;Personalizado;15.280,00;São Paulo;3
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;2240;11;Sandra;Regular;Manhã;24.640,00;São Paulo;4
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;2479;12;Sandra;Regular;Tarde;29.748,00;São Paulo;3
+Roberto;Access VBA;10/06/2016;Pessoa Jurídica;3200;12;Humberto;Personalizado;Noite;38.400,00;São Paulo;5
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;3921;9;Henrique;Regular;Integral;35.289,00;São Paulo;3
+Katia;Outlook;10/06/2016;Pessoa Física;780;11;Douglas;Regular;Madrugada;8.580,00;São Paulo;4
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;980;11;Jane;Regular;Quinta-feira;10.780,00;São Paulo;3
+Renata;PowerPoint;12/06/2016;Pessoa Física;1020;9;Caio ;Personalizado;Sexta-feira;9.180,00;São Paulo;2
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Física;1340;8;Fernando;Regular;Personalizado;10.720,00;São Paulo;4
+Priscila;Access;12/06/2016;Pessoa Física;1870;10;Roberto;Regular;Manhã;18.700,00;São Paulo;2
+Mirian;Windows;12/06/2016;Pessoa Jurídica;1910;8;Rosana;Regular;Tarde;15.280,00;São Paulo;3
+Murilo;Excel Básico;14/06/2016;Pessoa Jurídica;2240;11;Sandra;Personalizado;Noite;24.640,00;São Paulo;3
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;2479;11;Sérgio;Regular;Integral;27.269,00;São Paulo;3
+Myslaine;Excel Avançado;14/06/2016;Pessoa Física;3200;10;Manuel;Regular;Madrugada;32.000,00;São Paulo;2
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;3921;10;Joaquim;Regular;Sábado;39.210,00;São Paulo;2
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;780;9;Paulo;Personalizado;Domingo;7.020,00;São Paulo;5
+Renata;Excel VBA avançado;16/06/2016;Pessoa Física;980;11;Leandro;Regular;Personalizado;10.780,00;São Paulo;4
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;1020;12;José;Regular;Manhã;12.240,00;São Paulo;3
+Priscila;Word VBA;16/06/2016;Pessoa Jurídica;1340;10;Caio ;Regular;Tarde;13.400,00;São Paulo;2
+Mirian;Outlook;18/06/2016;Pessoa Jurídica;1870;12;Caio ;Personalizado;Noite;22.440,00;São Paulo;5
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;1910;9;Fernando;Regular;Integral;17.190,00;São Paulo;5
+Roberto;PowerPoint;18/06/2016;Pessoa Física;2240;12;Fernando;Regular;Madrugada;26.880,00;São Paulo;2
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;2479;11;Ana;Regular;Segunda-feira;27.269,00;São Paulo;3
+Katia;Access;01/06/2016;Pessoa Física;3200;9;Paulo;Personalizado;Terça-feira;28.800,00;São Paulo;4
+Vanessa;Windows;01/06/2016;Pessoa Física;3921;8;Sandra;Regular;Personalizado;31.368,00;São Paulo;4
+Renata;Excel Básico;01/06/2016;Pessoa Física;780;10;Sandra;Regular;Manhã;7.800,00;São Paulo;3
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Jurídica;980;11;Humberto;Regular;Tarde;10.780,00;São Paulo;5
+Priscila;Excel Avançado;01/06/2016;Pessoa Jurídica;1020;9;Henrique;Personalizado;Noite;9.180,00;São Paulo;2
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;1340;12;Douglas;Regular;Integral;16.080,00;São Paulo;4
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Física;1870;8;Jane;Regular;Madrugada;14.960,00;São Paulo;3
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1910;8;Caio ;Regular;Quarta-feira;15.280,00;São Paulo;2
+Myslaine;Access VBA;02/06/2016;Pessoa Física;2240;10;Fernando;Personalizado;Quinta-feira;22.400,00;São Paulo;4
+Katia;Word VBA;02/06/2016;Pessoa Física;2479;9;Roberto;Regular;Personalizado;22.311,00;São Paulo;3
+Vanessa;Outlook;04/06/2016;Pessoa Física;3200;10;Rosana;Regular;Manhã;32.000,00;São Paulo;2
+Renata;Outlook VBA;04/06/2016;Pessoa Jurídica;3921;11;Sandra;Regular;Tarde;43.131,00;São Paulo;5
+Rodrigo;PowerPoint;04/06/2016;Pessoa Jurídica;780;9;Sérgio;Personalizado;Noite;7.020,00;São Paulo;5
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;980;9;Manuel;Regular;Integral;8.820,00;São Paulo;4
+Mirian;Access;06/06/2016;Pessoa Física;1020;8;Joaquim;Regular;Madrugada;8.160,00;São Paulo;5
+Murilo;Windows;06/06/2016;Pessoa Jurídica;1340;9;Paulo;Regular;Sexta-feira;12.060,00;São Paulo;3
+Roberto;Excel Básico;06/06/2016;Pessoa Física;1870;9;Leandro;Personalizado;Sábado;16.830,00;São Paulo;4
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Física;1910;10;José;Regular;Personalizado;19.100,00;São Paulo;4
+Katia;Excel Avançado;08/06/2016;Pessoa Física;2240;12;Caio ;Regular;Manhã;26.880,00;São Paulo;2
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Jurídica;2479;11;Caio ;Regular;Tarde;27.269,00;São Paulo;4
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;3200;11;Fernando;Personalizado;Noite;35.200,00;São Paulo;4
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;3921;10;Fernando;Regular;Integral;39.210,00;São Paulo;4
+Priscila;Access VBA;10/06/2016;Pessoa Física;780;8;Ana;Regular;Madrugada;6.240,00;São Paulo;5
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;980;11;Paulo;Regular;Domingo;10.780,00;São Paulo;2
+Murilo;Outlook;10/06/2016;Pessoa Física;1020;12;Sandra;Personalizado;Segunda-feira;12.240,00;São Paulo;3
+Roberto;Outlook VBA;10/06/2016;Pessoa Física;1340;11;Sandra;Regular;Personalizado;14.740,00;São Paulo;2
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;1870;10;Humberto;Regular;Manhã;18.700,00;São Paulo;3
+Katia;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1910;12;Henrique;Regular;Tarde;22.920,00;São Paulo;2
+Vanessa;Access;12/06/2016;Pessoa Jurídica;2240;12;Douglas;Personalizado;Noite;26.880,00;São Paulo;3
+Renata;Windows;12/06/2016;Pessoa Jurídica;2479;9;Jane;Regular;Integral;22.311,00;São Paulo;5
+Rodrigo;Excel Básico;14/06/2016;Pessoa Física;3200;11;Caio ;Regular;Madrugada;35.200,00;São Paulo;5
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;3921;8;Fernando;Regular;Terça-feira;31.368,00;São Paulo;3
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;780;11;Roberto;Personalizado;Quarta-feira;8.580,00;São Paulo;3
+Murilo;Excel Dashboards;14/06/2016;Pessoa Física;980;9;Rosana;Regular;Personalizado;8.820,00;São Paulo;3
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;1020;10;Sandra;Regular;Manhã;10.200,00;São Paulo;3
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1340;10;Sérgio;Regular;Tarde;13.400,00;São Paulo;4
+Katia;Access VBA;16/06/2016;Pessoa Jurídica;1870;9;Manuel;Personalizado;Noite;16.830,00;São Paulo;2
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;1910;10;Joaquim;Regular;Integral;19.100,00;São Paulo;4
+Renata;Outlook;18/06/2016;Pessoa Física;2240;10;Paulo;Regular;Madrugada;22.400,00;São Paulo;2
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;2479;12;Leandro;Regular;Quinta-feira;29.748,00;São Paulo;3
+Priscila;PowerPoint;18/06/2016;Pessoa Física;3200;9;José;Personalizado;Sexta-feira;28.800,00;São Paulo;5
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Física;3921;12;Caio ;Regular;Personalizado;47.052,00;São Paulo;2
+Murilo;Access;01/06/2016;Pessoa Física;780;8;Caio ;Regular;Manhã;6.240,00;São Paulo;2
+Roberto;Windows;01/06/2016;Pessoa Jurídica;980;12;Fernando;Regular;Tarde;11.760,00;São Paulo;2
+Myslaine;Excel Básico;01/06/2016;Pessoa Jurídica;1020;12;Fernando;Personalizado;Noite;12.240,00;São Paulo;5
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;1340;9;Ana;Regular;Integral;12.060,00;São Paulo;2
+Vanessa;Excel Avançado;01/06/2016;Pessoa Física;1870;12;Paulo;Regular;Madrugada;22.440,00;São Paulo;3
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;1910;8;Sandra;Regular;Sábado;15.280,00;São Paulo;2
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;2240;11;Sandra;Personalizado;Domingo;24.640,00;São Paulo;2
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Física;2479;10;Humberto;Regular;Personalizado;24.790,00;São Paulo;5
+Mirian;Access VBA;02/06/2016;Pessoa Física;3200;11;Henrique;Regular;Manhã;35.200,00;São Paulo;4
+Murilo;Word VBA;02/06/2016;Pessoa Jurídica;3921;12;Douglas;Regular;Tarde;47.052,00;São Paulo;2
+Roberto;Outlook;04/06/2016;Pessoa Jurídica;780;8;Jane;Personalizado;Noite;6.240,00;São Paulo;3
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;980;11;Caio ;Regular;Integral;10.780,00;São Paulo;5
+Katia;PowerPoint;04/06/2016;Pessoa Física;1020;10;Fernando;Regular;Madrugada;10.200,00;São Paulo;4
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;1340;8;Roberto;Regular;Segunda-feira;10.720,00;São Paulo;4
+Renata;Access;06/06/2016;Pessoa Física;1870;10;Rosana;Personalizado;Terça-feira;18.700,00;São Paulo;3
+Rodrigo;Windows;06/06/2016;Pessoa Física;1910;8;Sandra;Regular;Personalizado;15.280,00;São Paulo;2
+Priscila;Excel Básico;06/06/2016;Pessoa Física;2240;10;Sérgio;Regular;Manhã;22.400,00;São Paulo;4
+Mirian;Excel Intermediário;06/06/2016;Pessoa Jurídica;2479;12;Manuel;Regular;Tarde;29.748,00;São Paulo;4
+Murilo;Excel Avançado;08/06/2016;Pessoa Jurídica;3200;9;Joaquim;Personalizado;Noite;28.800,00;São Paulo;5
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;3921;10;Paulo;Regular;Integral;39.210,00;São Paulo;4
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Física;780;9;Leandro;Regular;Madrugada;7.020,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;980;9;José;Regular;Quarta-feira;8.820,00;São Paulo;4
+Vanessa;Access VBA;10/06/2016;Pessoa Física;1020;9;Caio ;Personalizado;Quinta-feira;9.180,00;São Paulo;2
+Renata;Word VBA;10/06/2016;Pessoa Física;1340;11;Caio ;Regular;Personalizado;14.740,00;São Paulo;5
+Rodrigo;Outlook;10/06/2016;Pessoa Física;1870;11;Fernando;Regular;Manhã;20.570,00;São Paulo;5
+Priscila;Outlook VBA;10/06/2016;Pessoa Jurídica;1910;10;Fernando;Regular;Tarde;19.100,00;São Paulo;3
+Mirian;PowerPoint;12/06/2016;Pessoa Jurídica;2240;11;Ana;Personalizado;Noite;24.640,00;São Paulo;3
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;2479;10;Paulo;Regular;Integral;24.790,00;São Paulo;5
+Roberto;Access;12/06/2016;Pessoa Física;3200;11;Sandra;Regular;Madrugada;35.200,00;São Paulo;5
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;3921;10;Sandra;Regular;Sexta-feira;39.210,00;São Paulo;4
+Katia;Excel Básico;14/06/2016;Pessoa Física;780;11;Humberto;Personalizado;Sábado;8.580,00;São Paulo;4
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Física;980;10;Henrique;Regular;Personalizado;9.800,00;São Paulo;3
+Renata;Excel Avançado;14/06/2016;Pessoa Física;1020;10;Douglas;Regular;Manhã;10.200,00;São Paulo;3
+Rodrigo;Excel Dashboards;14/06/2016;Pessoa Jurídica;1340;10;Jane;Regular;Tarde;13.400,00;São Paulo;3
+Priscila;Excel VBA iniciante;16/06/2016;Pessoa Jurídica;1870;11;Caio ;Personalizado;Noite;20.570,00;São Paulo;4
+Mirian;Excel VBA avançado;16/06/2016;Pessoa Jurídica;1910;9;Fernando;Regular;Integral;17.190,00;São Paulo;5
+Murilo;Access VBA;16/06/2016;Pessoa Física;2240;9;Roberto;Regular;Madrugada;20.160,00;São Paulo;4
+Roberto;Word VBA;16/06/2016;Pessoa Jurídica;2479;11;Rosana;Regular;Domingo;27.269,00;São Paulo;2
+Myslaine;Outlook;18/06/2016;Pessoa Física;3200;9;Sandra;Personalizado;Segunda-feira;28.800,00;São Paulo;2
+Katia;Outlook VBA;18/06/2016;Pessoa Física;3921;8;Sérgio;Regular;Personalizado;31.368,00;São Paulo;4
+Vanessa;PowerPoint;18/06/2016;Pessoa Física;780;10;Manuel;Regular;Manhã;7.800,00;São Paulo;5
+Renata;PowerPoint VBA;18/06/2016;Pessoa Jurídica;980;9;Joaquim;Regular;Tarde;8.820,00;São Paulo;4
+Rodrigo;Access;01/06/2016;Pessoa Jurídica;1020;9;Paulo;Personalizado;Noite;9.180,00;São Paulo;4
+Priscila;Windows;01/06/2016;Pessoa Jurídica;1340;11;Leandro;Regular;Integral;14.740,00;São Paulo;3
+Mirian;Excel Básico;01/06/2016;Pessoa Física;1870;9;José;Regular;Madrugada;16.830,00;São Paulo;4
+Murilo;Excel Intermediário;01/06/2016;Pessoa Jurídica;1910;8;Caio ;Regular;Terça-feira;15.280,00;São Paulo;4
+Roberto;Excel Avançado;01/06/2016;Pessoa Física;2240;12;Caio ;Personalizado;Quarta-feira;26.880,00;São Paulo;2
+Myslaine;Excel Dashboards;01/06/2016;Pessoa Física;2479;12;Fernando;Regular;Personalizado;29.748,00;São Paulo;3
+Katia;Excel VBA iniciante;02/06/2016;Pessoa Física;3200;11;Fernando;Regular;Manhã;35.200,00;São Paulo;2
+Vanessa;Excel VBA avançado;02/06/2016;Pessoa Jurídica;3921;11;Ana;Regular;Tarde;43.131,00;São Paulo;3
+Renata;Access VBA;02/06/2016;Pessoa Jurídica;780;9;Paulo;Personalizado;Noite;7.020,00;São Paulo;3
+Rodrigo;Word VBA;02/06/2016;Pessoa Jurídica;980;12;Sandra;Regular;Integral;11.760,00;São Paulo;5
+Priscila;Outlook;04/06/2016;Pessoa Física;1020;9;Sandra;Regular;Madrugada;9.180,00;São Paulo;5
+Mirian;Outlook VBA;04/06/2016;Pessoa Jurídica;1340;12;Humberto;Regular;Quinta-feira;16.080,00;São Paulo;4
+Murilo;PowerPoint;04/06/2016;Pessoa Física;1870;8;Henrique;Personalizado;Sexta-feira;14.960,00;São Paulo;2
+Roberto;PowerPoint VBA;04/06/2016;Pessoa Física;1910;11;Douglas;Regular;Personalizado;21.010,00;São Paulo;3
+Myslaine;Access;06/06/2016;Pessoa Física;2240;11;Jane;Regular;Manhã;24.640,00;São Paulo;3
+Katia;Windows;06/06/2016;Pessoa Jurídica;2479;10;Caio ;Regular;Tarde;24.790,00;São Paulo;5
+Vanessa;Excel Básico;06/06/2016;Pessoa Jurídica;3200;11;Fernando;Personalizado;Noite;35.200,00;São Paulo;3
+Renata;Excel Intermediário;06/06/2016;Pessoa Jurídica;3921;10;Roberto;Regular;Integral;39.210,00;São Paulo;4
+Rodrigo;Excel Avançado;08/06/2016;Pessoa Física;780;11;Rosana;Regular;Madrugada;8.580,00;São Paulo;5
+Priscila;Excel Dashboards;08/06/2016;Pessoa Jurídica;980;9;Sandra;Regular;Sábado;8.820,00;São Paulo;3
+Mirian;Excel VBA iniciante;08/06/2016;Pessoa Física;1020;10;Sérgio;Personalizado;Domingo;10.200,00;São Paulo;4
+Murilo;Excel VBA avançado;08/06/2016;Pessoa Física;1340;9;Manuel;Regular;Personalizado;12.060,00;São Paulo;2
+Roberto;Access VBA;10/06/2016;Pessoa Física;1870;12;Joaquim;Regular;Manhã;22.440,00;São Paulo;4
+Myslaine;Word VBA;10/06/2016;Pessoa Jurídica;1910;11;Paulo;Regular;Tarde;21.010,00;São Paulo;3
+Katia;Outlook;10/06/2016;Pessoa Jurídica;2240;11;Leandro;Personalizado;Noite;24.640,00;São Paulo;5
+Vanessa;Outlook VBA;10/06/2016;Pessoa Jurídica;2479;8;José;Regular;Integral;19.832,00;São Paulo;4
+Renata;PowerPoint;12/06/2016;Pessoa Física;3200;10;Caio ;Regular;Madrugada;32.000,00;São Paulo;3
+Rodrigo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;3921;8;Caio ;Regular;Segunda-feira;31.368,00;São Paulo;2
+Priscila;Access;12/06/2016;Pessoa Física;780;9;Fernando;Personalizado;Terça-feira;7.020,00;São Paulo;4
+Mirian;Windows;12/06/2016;Pessoa Física;980;8;Fernando;Regular;Personalizado;7.840,00;São Paulo;3
+Murilo;Excel Básico;14/06/2016;Pessoa Física;1020;11;Ana;Regular;Manhã;11.220,00;São Paulo;5
+Roberto;Excel Intermediário;14/06/2016;Pessoa Jurídica;1340;9;Paulo;Regular;Tarde;12.060,00;São Paulo;3
+Myslaine;Excel Avançado;14/06/2016;Pessoa Jurídica;1870;12;Sandra;Personalizado;Noite;22.440,00;São Paulo;4
+Katia;Excel Dashboards;14/06/2016;Pessoa Jurídica;1910;12;Sandra;Regular;Integral;22.920,00;São Paulo;2
+Vanessa;Excel VBA iniciante;16/06/2016;Pessoa Física;2240;12;Humberto;Regular;Madrugada;26.880,00;São Paulo;4
+Renata;Excel VBA avançado;16/06/2016;Pessoa Jurídica;2479;9;Henrique;Regular;Quarta-feira;22.311,00;São Paulo;5
+Rodrigo;Access VBA;16/06/2016;Pessoa Física;3200;8;Douglas;Personalizado;Quinta-feira;25.600,00;São Paulo;4
+Priscila;Word VBA;16/06/2016;Pessoa Física;3921;12;Jane;Regular;Personalizado;47.052,00;São Paulo;3
+Mirian;Outlook;18/06/2016;Pessoa Física;780;10;Caio ;Regular;Manhã;7.800,00;São Paulo;3
+Murilo;Outlook VBA;18/06/2016;Pessoa Jurídica;980;9;Fernando;Regular;Tarde;8.820,00;São Paulo;5
+Roberto;PowerPoint;18/06/2016;Pessoa Jurídica;1020;9;Roberto;Personalizado;Noite;9.180,00;São Paulo;4
+Myslaine;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1340;10;Rosana;Regular;Integral;13.400,00;São Paulo;3
+Katia;Access;01/06/2016;Pessoa Física;1870;12;Sandra;Regular;Madrugada;22.440,00;São Paulo;5
+Vanessa;Windows;01/06/2016;Pessoa Jurídica;1910;12;Sérgio;Regular;Sexta-feira;22.920,00;São Paulo;2
+Renata;Excel Básico;01/06/2016;Pessoa Física;2240;8;Manuel;Personalizado;Sábado;17.920,00;São Paulo;4
+Rodrigo;Excel Intermediário;01/06/2016;Pessoa Física;2479;11;Joaquim;Regular;Personalizado;27.269,00;São Paulo;3
+Priscila;Excel Avançado;01/06/2016;Pessoa Física;3200;10;Paulo;Regular;Manhã;32.000,00;São Paulo;5
+Mirian;Excel Dashboards;01/06/2016;Pessoa Jurídica;3921;9;Leandro;Regular;Tarde;35.289,00;São Paulo;4
+Murilo;Excel VBA iniciante;02/06/2016;Pessoa Jurídica;780;8;José;Personalizado;Noite;6.240,00;São Paulo;5
+Roberto;Excel VBA avançado;02/06/2016;Pessoa Jurídica;980;11;Caio ;Regular;Integral;10.780,00;São Paulo;3
+Myslaine;Access VBA;02/06/2016;Pessoa Física;1020;8;Caio ;Regular;Madrugada;8.160,00;São Paulo;5
+Katia;Word VBA;02/06/2016;Pessoa Jurídica;1340;12;Fernando;Regular;Domingo;16.080,00;São Paulo;2
+Vanessa;Outlook;04/06/2016;Pessoa Física;1870;12;Fernando;Personalizado;Segunda-feira;22.440,00;São Paulo;3
+Renata;Outlook VBA;04/06/2016;Pessoa Física;1910;10;Ana;Regular;Personalizado;19.100,00;São Paulo;5
+Rodrigo;PowerPoint;04/06/2016;Pessoa Física;2240;12;Paulo;Regular;Manhã;26.880,00;São Paulo;4
+Priscila;PowerPoint VBA;04/06/2016;Pessoa Jurídica;2479;10;Sandra;Regular;Tarde;24.790,00;São Paulo;3
+Mirian;Access;06/06/2016;Pessoa Jurídica;3200;10;Sandra;Personalizado;Noite;32.000,00;São Paulo;4
+Murilo;Windows;06/06/2016;Pessoa Jurídica;3921;8;Humberto;Regular;Integral;31.368,00;São Paulo;5
+Roberto;Excel Básico;06/06/2016;Pessoa Física;780;9;Henrique;Regular;Madrugada;7.020,00;São Paulo;2
+Myslaine;Excel Intermediário;06/06/2016;Pessoa Jurídica;980;11;Douglas;Regular;Terça-feira;10.780,00;São Paulo;3
+Katia;Excel Avançado;08/06/2016;Pessoa Física;1020;10;Jane;Personalizado;Quarta-feira;10.200,00;São Paulo;2
+Vanessa;Excel Dashboards;08/06/2016;Pessoa Física;1340;8;Caio ;Regular;Personalizado;10.720,00;São Paulo;3
+Renata;Excel VBA iniciante;08/06/2016;Pessoa Física;1870;12;Fernando;Regular;Manhã;22.440,00;São Paulo;2
+Rodrigo;Excel VBA avançado;08/06/2016;Pessoa Jurídica;1910;10;Roberto;Regular;Tarde;19.100,00;São Paulo;5
+Priscila;Access VBA;10/06/2016;Pessoa Jurídica;2240;10;Rosana;Personalizado;Noite;22.400,00;São Paulo;3
+Mirian;Word VBA;10/06/2016;Pessoa Jurídica;2479;9;Sandra;Regular;Integral;22.311,00;São Paulo;5
+Murilo;Outlook;10/06/2016;Pessoa Física;3200;10;Sérgio;Regular;Madrugada;32.000,00;São Paulo;5
+Roberto;Outlook VBA;10/06/2016;Pessoa Jurídica;3921;10;Manuel;Regular;Quinta-feira;39.210,00;São Paulo;5
+Myslaine;PowerPoint;12/06/2016;Pessoa Física;780;12;Joaquim;Personalizado;Sexta-feira;9.360,00;São Paulo;2
+Katia;PowerPoint VBA;12/06/2016;Pessoa Física;980;11;Paulo;Regular;Personalizado;10.780,00;São Paulo;2
+Vanessa;Access;12/06/2016;Pessoa Física;1020;8;Leandro;Regular;Manhã;8.160,00;São Paulo;3
+Renata;Windows;12/06/2016;Pessoa Jurídica;1340;12;José;Regular;Tarde;16.080,00;São Paulo;3
+Rodrigo;Excel Básico;14/06/2016;Pessoa Jurídica;1870;11;Caio ;Personalizado;Noite;20.570,00;São Paulo;2
+Priscila;Excel Intermediário;14/06/2016;Pessoa Jurídica;1910;11;Caio ;Regular;Integral;21.010,00;São Paulo;2
+Mirian;Excel Avançado;14/06/2016;Pessoa Física;2240;8;Fernando;Regular;Madrugada;17.920,00;São Paulo;2
+Murilo;Excel Dashboards;14/06/2016;Pessoa Jurídica;2479;10;Fernando;Regular;Sábado;24.790,00;São Paulo;5
+Roberto;Excel VBA iniciante;16/06/2016;Pessoa Física;3200;9;Ana;Personalizado;Domingo;28.800,00;São Paulo;2
+Myslaine;Excel VBA avançado;16/06/2016;Pessoa Física;3921;8;Paulo;Regular;Personalizado;31.368,00;São Paulo;4
+Katia;Access VBA;16/06/2016;Pessoa Física;780;10;Sandra;Regular;Manhã;7.800,00;São Paulo;4
+Vanessa;Word VBA;16/06/2016;Pessoa Jurídica;980;12;Sandra;Regular;Tarde;11.760,00;São Paulo;3
+Renata;Outlook;18/06/2016;Pessoa Jurídica;1020;12;Humberto;Personalizado;Noite;12.240,00;São Paulo;2
+Rodrigo;Outlook VBA;18/06/2016;Pessoa Jurídica;1340;9;Henrique;Regular;Integral;12.060,00;São Paulo;2
+Priscila;PowerPoint;18/06/2016;Pessoa Física;1870;8;Douglas;Regular;Madrugada;14.960,00;São Paulo;2
+Mirian;PowerPoint VBA;18/06/2016;Pessoa Jurídica;1910;10;Jane;Regular;Segunda-feira;19.100,00;São Paulo;2
+Murilo;Access;01/06/2016;Pessoa Física;2240;11;Caio ;Personalizado;Terça-feira;24.640,00;São Paulo;2
+Roberto;Windows;01/06/2016;Pessoa Física;2479;8;Fernando;Regular;Personalizado;19.832,00;São Paulo;4
+Myslaine;Excel Básico;01/06/2016;Pessoa Física;3200;10;Roberto;Regular;Manhã;32.000,00;São Paulo;2
+Katia;Excel Intermediário;01/06/2016;Pessoa Jurídica;3921;8;Rosana;Regular;Tarde;31.368,00;São Paulo;3
+Vanessa;Excel Avançado;01/06/2016;Pessoa Jurídica;780;11;Sandra;Personalizado;Noite;8.580,00;São Paulo;3
+Renata;Excel Dashboards;01/06/2016;Pessoa Jurídica;980;9;Sérgio;Regular;Integral;8.820,00;São Paulo;2
+Rodrigo;Excel VBA iniciante;02/06/2016;Pessoa Física;1020;8;Manuel;Regular;Madrugada;8.160,00;São Paulo;3
+Priscila;Excel VBA avançado;02/06/2016;Pessoa Jurídica;1340;10;Joaquim;Regular;Quarta-feira;13.400,00;São Paulo;5
+Mirian;Access VBA;02/06/2016;Pessoa Física;1870;11;Paulo;Personalizado;Quinta-feira;20.570,00;São Paulo;5
+Murilo;Word VBA;02/06/2016;Pessoa Física;1910;11;Leandro;Regular;Personalizado;21.010,00;São Paulo;4
+Roberto;Outlook;04/06/2016;Pessoa Física;2240;10;José;Regular;Manhã;22.400,00;São Paulo;3
+Myslaine;Outlook VBA;04/06/2016;Pessoa Jurídica;2479;8;Caio ;Regular;Tarde;19.832,00;São Paulo;4
+Katia;PowerPoint;04/06/2016;Pessoa Jurídica;3200;9;Caio ;Personalizado;Noite;28.800,00;São Paulo;5
+Vanessa;PowerPoint VBA;04/06/2016;Pessoa Jurídica;3921;9;Fernando;Regular;Integral;35.289,00;São Paulo;4
+Renata;Access;06/06/2016;Pessoa Física;780;10;Fernando;Regular;Madrugada;7.800,00;São Paulo;5
+Rodrigo;Windows;06/06/2016;Pessoa Jurídica;980;11;Ana;Regular;Sexta-feira;10.780,00;São Paulo;2
+Priscila;Excel Básico;06/06/2016;Pessoa Física;1020;11;Paulo;Personalizado;Sábado;11.220,00;São Paulo;2
+Mirian;Excel Intermediário;06/06/2016;Pessoa Física;1340;10;Sandra;Regular;Personalizado;13.400,00;São Paulo;3
+Murilo;Excel Avançado;08/06/2016;Pessoa Física;1870;10;Sandra;Regular;Manhã;18.700,00;São Paulo;2
+Roberto;Excel Dashboards;08/06/2016;Pessoa Jurídica;1910;10;Humberto;Regular;Tarde;19.100,00;São Paulo;4
+Myslaine;Excel VBA iniciante;08/06/2016;Pessoa Jurídica;2240;10;Henrique;Personalizado;Noite;22.400,00;São Paulo;4
+Katia;Excel VBA avançado;08/06/2016;Pessoa Jurídica;2479;11;Douglas;Regular;Integral;27.269,00;São Paulo;3
+Vanessa;Access VBA;10/06/2016;Pessoa Física;3200;9;Jane;Regular;Madrugada;28.800,00;São Paulo;3
+Renata;Word VBA;10/06/2016;Pessoa Jurídica;3921;12;Caio ;Regular;Domingo;47.052,00;São Paulo;4
+Rodrigo;Outlook;10/06/2016;Pessoa Física;780;12;Fernando;Personalizado;Segunda-feira;9.360,00;São Paulo;3
+Priscila;Outlook VBA;10/06/2016;Pessoa Física;980;10;Roberto;Regular;Personalizado;9.800,00;São Paulo;5
+Mirian;PowerPoint;12/06/2016;Pessoa Física;1020;9;Rosana;Regular;Manhã;9.180,00;São Paulo;4
+Murilo;PowerPoint VBA;12/06/2016;Pessoa Jurídica;1340;10;Sandra;Regular;Tarde;13.400,00;São Paulo;4
+Roberto;Access;12/06/2016;Pessoa Jurídica;1870;8;Sérgio;Personalizado;Noite;14.960,00;São Paulo;2
+Myslaine;Windows;12/06/2016;Pessoa Jurídica;1910;9;Manuel;Regular;Integral;17.190,00;São Paulo;5
+Katia;Excel Básico;14/06/2016;Pessoa Física;2240;12;Joaquim;Regular;Madrugada;26.880,00;São Paulo;4
+Vanessa;Excel Intermediário;14/06/2016;Pessoa Jurídica;2479;9;Paulo;Regular;Terça-feira;22.311,00;São Paulo;5
+Renata;Excel Avançado;14/06/2016;Pessoa Física;3200;12;Leandro;Personalizado;Quarta-feira;38.400,00;São Paulo;4
